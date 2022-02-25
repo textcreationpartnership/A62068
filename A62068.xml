@@ -1,0 +1,1302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The compleat method of curing almost all diseases to which is added an exact description of their several symptoms / written in Latin by Dr. Thomas Sydenham ; and now faithfully Englished.</title>
+            <author>Sydenham, Thomas, 1624-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 154 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62068</idno>
+            <idno type="STC">Wing S6307</idno>
+            <idno type="STC">ESTC R34635</idno>
+            <idno type="EEBO-CITATION">14525380</idno>
+            <idno type="OCLC">ocm 14525380</idno>
+            <idno type="VID">102538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1073:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The compleat method of curing almost all diseases to which is added an exact description of their several symptoms / written in Latin by Dr. Thomas Sydenham ; and now faithfully Englished.</title>
+                  <author>Sydenham, Thomas, 1624-1689.</author>
+               </titleStmt>
+               <extent>[12], 85 [i.e. 97], [10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102538:1" rendition="simple:additions"/>
+            <pb facs="tcp:102538:1" rendition="simple:additions"/>
+            <p>THE Compleat Method OF CURING Almoſt all DISEASES.</p>
+            <p>To which is added, An Exact Deſcription Of their ſeveral SYMPTOMS.</p>
+            <p>Written in <hi>Latin,</hi> by Dr. <hi>Thomas Sydenham,</hi> And now faithfully Engliſhed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-hall,</hi> 1694.</p>
+         </div>
+         <div type="translators_preface">
+            <pb facs="tcp:102538:2" rendition="simple:additions"/>
+            <pb facs="tcp:102538:2"/>
+            <head>The Tranſlators PREFACE.</head>
+            <p>THough Cuſtom, and the Quality that I have aſſum'd, of a <hi>Tran<g ref="char:EOLhyphen"/>ſlator,</hi> ſeem to require, and the Reader will probably expect, that the Buſi<g ref="char:EOLhyphen"/>neſs of this Preface ſhould be to praiſe my <hi>Author,</hi> and recommend his <hi>Book</hi> to the Public, and though perhaps never any had two more alluring Subjects to enlarge upon, yet I am reſolv'd to ſay nothing, or, at leaſt, very little on either of 'em. They are beſt able to do theſe Offices to one ano<g ref="char:EOLhyphen"/>ther; and I dare neither attempt to write Dr. <hi>Sydenham's</hi> Elogy, nor give a Cha<g ref="char:EOLhyphen"/>racter
+<pb facs="tcp:102538:3"/> of any of his <hi>Works.</hi> And though I were ſo much a Friend to the Book-ſeller, as to run the hazard of the Reader's Cen<g ref="char:EOLhyphen"/>ſure for his ſake, and endeavour to promote the Sale of the Book, by ſhewing how much it is the Intereſt of all thoſe who have any Concern for the Recovery or Preſervation of their Health, to buy and peruſe it; I do not think that I could thereby do him any conſi<g ref="char:EOLhyphen"/>derable Service. For the Care and Skill of the <hi>Printer</hi> and <hi>Book-binder</hi> doth much more effectually recommend a Book to the Generality of Buyers, than the Commendatory Preface of a <hi>Tranſlator.</hi>
+            </p>
+            <p>I ſhall content my ſelf, therefore, with aſſuring the Reader in general, that he will find all that is promis'd in the <hi>Title Page,</hi> abundantly made good in the <hi>Book:</hi> In which, beſides a compleat Method of Cure, he will meet with ſhort and clear Accounts of the Symptoms of moſt Diſeaſes incident to Mankind, with ſuccinct Hiſtories of the Progreſs and Periods of many of 'em; which as it is perhaps one of the moſt uſeful, and yet hitherto moſt neglected parts of Phyſic, our Author laboured with incredible Induſtry
+<pb facs="tcp:102538:3"/> to cultivate; and the happy Succeſs of his Endeavours herein, ſeems to be chiefly ow<g ref="char:EOLhyphen"/>ing to that uncommon Sagacity of which he was Maſter, and which was peculiar to him. It may not be unfit alſo to advertiſe the Reader, that the Medicines here com<g ref="char:EOLhyphen"/>mended are all of 'em very ſafe, and for the moſt part eaſy to be had, and at low Rates. As for their Fitneſs for the <g ref="char:V">Ʋ</g>ſes to which they are adapted, I leave it to be gueſs'd from the Author's extraordinary Succeſs in the Practice of Phyſic, which I have heard even ſome of his greateſt Enemies acknow<g ref="char:EOLhyphen"/>ledge with Admiration. And in Caſes of this Nature, it is not ill Logic to make uſe of the Happineſs of the <hi>Event,</hi> for an Ar<g ref="char:EOLhyphen"/>gument to prove the Fitneſs and Excellency of the <hi>Means.</hi> In a word, the Reader will find in this Book all that made Dr. <hi>Sy<g ref="char:EOLhyphen"/>denham</hi> ſo deſervedly famous, that <hi>Me<g ref="char:EOLhyphen"/>thod</hi> and thoſe <hi>Medicines</hi> with which he ſav'd ſo many Lives, and perhaps more than was ever before publiſhed in ſo ſmall a Volume, in any Language whatſoever. Not a few General Precepts and Aphoriſms, or a paultry Collection of Receipts, but a Me<g ref="char:EOLhyphen"/>thodical and almoſt compleat <hi>Body of Phy<g ref="char:EOLhyphen"/>ſic,</hi>
+               <pb facs="tcp:102538:4"/> in a few Sheets. And I know not whether this be not the only Book, at leaſt on this ſubject, of which it may be ſaid juſtly and without a Bull, that it affords Matter of Study for as many <hi>Years,</hi> as it may be read, and underſtood too, in <hi>Hours,</hi> by any intelligent Perſon.</p>
+            <p>As for what concerns my ſelf, and my Performance in the Tranſlation, it will, I think, be ſufficient to declare, that I have done all that I deſign'd to do, which was to render the Book into <hi>Engliſh,</hi> with all poſſi<g ref="char:EOLhyphen"/>ble Fidelity, and the greateſt Exactneſs I could. And as this did neither coſt me much Time nor Trouble, ſo I am very willing to acknowledge, that the Public hath no great Obligation to me for it, nor do I pretend to any right to their Thanks for my Pains.</p>
+            <p>I am ſatisfied that my Deſign was innocent and good, and that it doth not at all require any Apology to be made for it; nor am I ſo fond of that Employment, as to undertake it without Neceſſity. But there is an Objection againſt all Works of this nature, that is too commonly urged, and with too great Ap<g ref="char:EOLhyphen"/>pearance
+<pb facs="tcp:102538:4"/> of Reaſon to be neglected. All Tranſlations of Medicinal Books are by many judged to be not only uſeleſs but pernicious; and ſuch as procure 'em to be publiſhed in the Vulgar Languages, are accuſed of no leſs a Crime, than of doing all they can to furniſh Madmen with Weapons to murder themſelves, and to expoſe the Lives of Men to the Mercy of Fools and Knaves. I acknowledge indeed, that the World, and perhaps this Nation more than any other part of it, is exceedingly peſtered with Quacks. I am, both by In<g ref="char:EOLhyphen"/>clination and Intereſt, very much their Ene<g ref="char:EOLhyphen"/>my, and I believe themſelves to be far greater Plagues than the Diſeaſes they pretend to cure. There is hardly any thing that I could not more patiently bear to be accuſed of, than of contributing in the leaſt to augment their Numbers of Credit. And as my Conſcience bears me Witneſs, that I was not guilty of any kind Deſign to them, when I began this Tranſlation, ſo I am abundantly ſatisfied that they will not be able to draw any conſi<g ref="char:EOLhyphen"/>derable Advantage from it, now that it is finiſhed. The utter Abhorrence I have of them and their pernicious Practiſes, makes me hate moſt Pretenſions to Secrets in Phyſic,
+<pb facs="tcp:102538:5"/> for their ſakes. And I verily believe, that there is nothing that hath done greater diſ<g ref="char:EOLhyphen"/>ſervice to the Honour and Intereſt of Phyſi<g ref="char:EOLhyphen"/>cians, than their over-carefulneſs to conceal the Knowledge of the Art which they profeſs<g ref="char:punc">▪</g> from the Public. I will not deny, but that there are ſome things that may and ought to be kept ſecret, and perhaps might have been better delivered by way of <hi>Cabala,</hi> than publiſhed in any Language whatſoever. But to endeavour to make a Myſtery of all, is not only contrary to nhe Practice of the Pro<g ref="char:EOLhyphen"/>feſſors of all other Arts and Sciences, but alſo, as I hinted before, of very bad conſe<g ref="char:EOLhyphen"/>quence to Phyſicians themſelves. For Men will be apt to ſuſpect, and think too that they have reaſon to do ſo, that there muſt be a great deal of Miſchief, or very little true Worth in that which is hid with ſo much care, and that they are either afraid or aſhamed to expoſe it to light. Few would be willing to truſt themſelves to the Conduct o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Guide, who would not ſuffer them to ſee where he led them; and the generality of People diſlike Implicit Obedience, in what concerns the <hi>Body,</hi> as much, if not more than in thoſe things that relate to the <hi>Soul</hi>
+               <pb facs="tcp:102538:5"/> Men are indeed by this means kept in Igno<g ref="char:EOLhyphen"/>rance, and conſequently are <g ref="char:V">Ʋ</g>ntractable, Superſtitious and Fanciful, which whether they be deſireable Qualifications in a Patient, let any reaſonable Perſon determine. Their Want of Knowledge doth alſo expoſe them to the Impoſtures of Empiries, who, like all other <hi>Juglers,</hi> love to play in the Dark. Thus we ſee that the Ignorant are the Quacks beſt Cuſtomers, and who is there that hath read the Works of but one <hi>Learned Phy<g ref="char:EOLhyphen"/>ſician,</hi> that would not tremble to put his Life into the Hands of a <hi>Mountebank.</hi>
+            </p>
+            <p>Theſe and divers other Conſiderations make me very inclinable to believe, that if the greateſt, or, at leaſt, the beſt part of Phyſical Books, were put into ſuch Languages as are commonly underſtood, whatever par<g ref="char:EOLhyphen"/>ticular and accidental Inconveniencies might poſſibly follow thereupon, yet in the general, both the Number and Credit of Quacks would be exceedingly diminiſhed. They would then be more eaſily diſcovered, nor would they find ſo many Cullies. Men would not fancy themſelves able enough to be their own Phyſicians, much leſs would they
+<pb facs="tcp:102538:6"/> ſuffer themſelves to be fooled by the Impu<g ref="char:EOLhyphen"/>dence of an Ignorant Impoſtor. And, of all the Books in the World, this, that I have taught to ſpeak its Author's native Lan<g ref="char:EOLhyphen"/>guage, ſeems to be one of the leaſt dangerous to be read and underſtood by the <g ref="char:V">Ʋ</g>nlearned. 'Tis true indeed, that any Perſon that is Maſter of a tolerable Judgment and Capa<g ref="char:EOLhyphen"/>city, and ſhall read with Application any one Chapter of this Book, eſpecially of ſuch as treat of <hi>Internal Diſeaſes,</hi> which are the Phyſicians peculiar Province, will certainly be thereby very much improved in ſo important a Part of Knowledge. But it is no leſs certain, that this Improvement of his Know<g ref="char:EOLunhyphen"/>ledge will be, equally for the Advantage of the Learned <hi>Phyſician,</hi> and the <hi>Empiric'</hi> Confuſion; as that which will enable him to diſcern the Skill and Sagacity of the <hi>For<g ref="char:EOLunhyphen"/>mer,</hi> and the Raſhneſs and Ignorance of the <hi>Latter,</hi> and conſequently make him Love and Eſteem the <hi>one,</hi> as much as he will Deteſt and Contemn the <hi>other.</hi>
+            </p>
+            <p>After all, as I am confident, that a honeſt and judicious Perſons, whether Phy<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cians or others, will ever Honor the Illuſtrio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:102538:6"/> Memory of my <hi>Author;</hi> ſo neither am I altogether without Hopes, that they will Excuſe, and perhaps alſo (which is more than I either deſire, or pretend to deſerve) Thank</p>
+            <closer>
+               <signed>The Tranſlator.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:102538:7"/>
+            <pb n="1" facs="tcp:102538:7"/>
+            <head>The common Purging Potion.</head>
+            <p>TAke half an ounce of Tamarinds, two drams of Sena Leaves, one dram and a half of Rhubarb; boil them in a ſufficient quan<g ref="char:EOLhyphen"/>tity of Spring-water to three ounces: Then ſtrain them, and diſſolve in the liquor, Manna and ſolutive Syrup of Roſes, of each one ounce Mix them for a Potion.</p>
+         </div>
+         <div type="part">
+            <head>The Common Vomit.</head>
+            <p>Take of the Water of <hi>Carduus Benedictus</hi> two ounces, the Infuſion of <hi>Crocus Metallorum</hi> one ounce, Syrup of Clove-gilliflowers half an ounce; mix them for a Vomit, which is to be taken about four a Clock in the Afternoon, drinking a large draught of Poſſet after every vomiting.</p>
+         </div>
+         <div type="part">
+            <head>The Pearl Julep.</head>
+            <p>Take Black-cherry water, Milk-water, of each three ounces; Barley, Cinnamon-water, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ounce, Prepar'd Pearl a dram and an half, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugar-candy as much as is ſufficient; add Da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ask-roſe-water half a dram. Mix them for a
+<pb n="2" facs="tcp:102538:8"/> Julep. Doſe four or five ſpoonfuls in ſickneſs, for fainting fits.</p>
+         </div>
+         <div type="part">
+            <head>The Cordial Julep.</head>
+            <p>Take Milk water, Black-cherry water, of each three ounces; Plague water, Syrup of Clove Gilliflowers, Syrup of the Juice of Ci<g ref="char:EOLhyphen"/>trons, of each half an ounce. Mix them, and make a Julep, which is to be taken frequently.</p>
+         </div>
+         <div type="part">
+            <head>The Decoction for a Diet-drink.</head>
+            <p>Take Roots of Sarſaparilla, ſix ounces; Saſ<g ref="char:EOLunhyphen"/>ſafras and China, of each two ounces; Liquor iſh, one ounce; boil them in two Gallons of Spring water for the ſpace of half an hour after which let them ſtand in a cloſe Veſſel of hot aſhes twelve hours; then boil them again to the conſumption of a third part of the water; and aſſoon as you take the liquor from the fire, infuſe into it half an ounce of Aniſe ſeeds: after it hath ſtood two hours more ſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, and let it ſtand till it grow clear, then po<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> off the liquor into Glaſs-bottles well ſtopp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and reſerve it for uſe. This is to be uſed f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ordinary drink and continued thirty days.</p>
+         </div>
+         <div type="part">
+            <head>The Opening and Antiſcorbutic Apozem.</head>
+            <p>Take the Roots of Graſs, Cichory, Fen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Aſparagus, of each one ounce; Currans a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Raiſins ſton'd, of each two ounces; Leaves <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Liverwort, Harts tongue and Maiden-hair, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> each one handful; Leaves of Brook-lime (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ded
+<pb n="3" facs="tcp:102538:8"/> towards the end) two handfuls; boil them in a ſufficient quantity of Spring water to two pounds (or a quart) to which toward the end add half a pint of Rheniſh Wine. Then ſtrain them, and while the liquor is yet hot, infuſe in it for two hours in a cloſe Veſſel one handful of the Leaves of Garden Scurvygraſs. After which ſtrain again, and add Syrup of the five Roots, Syrup of Orange juice, of each two ounces; Barley, Cinnamon water, one ounce. Mix them and make an Apozem, the Doſe of which is half a pint, every morning and at 5 in the afternoon for fourteen days together.</p>
+         </div>
+         <div type="part">
+            <head>The thickening Eclegma (or licking Medicine) for a Cough.</head>
+            <p>Take Oil of Sweet Almonds, one ounce; Syrups of Red Poppy, of Purſlain and of Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubes, and (the licking Medicine call'd) <hi>Lohor <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anum,</hi> of each half an ounce; Sugar-candy a ſufficient quantity. Mix them in a Marble Mortar for the ſpace of an hour, and make a perfectly mix'd Licking Medicine, which is to be kept in a Galley-pot for uſe. It is to be taken frequently, licking it off of a Liquoriſh ſtick.</p>
+         </div>
+         <div type="part">
+            <head>An Eclegma that thickens more powerfully.</head>
+            <p>Take Conſerve of Red Roſes, Syrup of Vio<g ref="char:EOLhyphen"/>lets and of <hi>Meconium,</hi> of each one ounce; White Poppy Seeds, three drams. Beat them together, and ſtrain them through a Hair Sieve, then add expreſs'd Oil of Nutmeg, ſix grains. Make an Eclegma.</p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:102538:9"/>
+            <head>In a thin Defluxion.</head>
+            <p>Take Conſerve of Red Roſes, two ounces; Syrup of <hi>Meconium</hi> and of Jujubes, of each one ounce; <hi>Olibanum,</hi> Maſtick and Amber, of each one dram; expreſs'd Oil of Nutmegs, ſix grains. Mix them and make a Lohoch, which is to be lick'd often. You may take twice every day a ſpoonful of this Eclegma, pouring into it Bal<g ref="char:EOLhyphen"/>ſam of Sulphurs aniſated from eight to twelve drops.</p>
+         </div>
+         <div type="part">
+            <head>Purging Ale.</head>
+            <p>Take Polypody of the Oak, one pound; Roots of Monks Rheubarb, Sena Leaves, and ſton'd Raiſins, of each half a pound; Rheu<g ref="char:EOLhyphen"/>barb ſlic'd and Horſe Radiſh Roots, of each three ounces; Leaves of Garden Scurvy-graſs and Sage, of each four handfuls; four Orenges ſlic'd. Infuſe them in five or ſix gallons of Ale not hopped, while it is fermenting; and when it is ripen'd, uſe it inſtead of your ordinary drink for fourteen or one and twenty days, eſpe<g ref="char:EOLhyphen"/>cially drink a draught of it every morning.</p>
+         </div>
+         <div type="part">
+            <head>The Hyſterical Plaiſter.</head>
+            <p>Take Galbanum diſſolv'd in Tincture of Caſtoreum and ſtrain'd, three drams; Taramahac, two drams. Make a Plaiſter for the Navel.</p>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:102538:9"/>
+            <head>A Purging Medicine for young Infants.</head>
+            <p>Take one ſmall ſpoonful of Syrup of Cicho<g ref="char:EOLhyphen"/>ry with Rheubarb.</p>
+         </div>
+         <div type="part">
+            <head>The bitter Purging Decoction.</head>
+            <p>Take of the bitter Decoction prepar'd with a double quantity of Sena, four ounces; Syrup of Buckthorn, one ounce; Electuary of the juice of Roſes, two drams. Mix them for a Potion.</p>
+         </div>
+         <div type="part">
+            <head>Of the Diſeaſe called in Women, the Hyſterical; in Men the Hypochondraical Paſſion.</head>
+            <p>When by any grievous accident the Soul is troubled, the animal Spirits run into diſorderly motions; the Urine appears ſometimes limpid, and in great quantity; the ſick perſons caſt off all hope of recovery; and portend the moſt diſmal things to themſelves. Whatſoever part of the body the Diſeaſe doth affect (and it af<g ref="char:EOLhyphen"/>fecteth many) immediately the ſymptoms that are proper to that part appear; in the Head, the Apoplexy, which ends in a Palſy of one half of the body, comes preſently after Child-bearing; ſometimes they are ſeized with Convulſions, that very much reſemble the Epilepſy, and are com<g ref="char:EOLhyphen"/>monly called the Suffocation of the womb, in which the Belly and Entrails riſe upwards to<g ref="char:EOLhyphen"/>wards the Throat: At other times they are mi<g ref="char:EOLhyphen"/>ſerably tormented with the Hyſterical <hi>Clavus,</hi> in which there is a moſt vehement pain in the head,
+<pb n="6" facs="tcp:102538:10"/> which you may cover with your thumb, the ſick perſon in the mean time vomiting up green Matter like to that ſort of Choler that has its name from Leeks. The Paroxyſm doth alſo counterfeit the Palpitation of the Heart, the Cough, the Colic and Iliac Paſſions, the Stone and Suppreſſion of Urine: it is attended with prodigious vomitings, and ſometimes with a Diarrhaea; outwardly in the muſculous Fleſh it cauſes ſometimes Pains, and ſometimes ſwel<g ref="char:EOLhyphen"/>lings. In the Legs it is like a Dropſie, nor (which is wonderful) doth it leave the Teeth untouch'd. The Back is often cruelly pain'd; and almoſt always the external parts are ſo cold that a dead body is not more. The ſick perſons break out ridiculouſly into exceſſive Laughter and Tears without any cauſe; and are ſome times troubled with ſpitting to ſuch a degree, as were enough to make one believe that they had been anointed with Mercury. Hyſterical Pains whatſoever part they affect, leave a Tenderneſs behind them that cannot endure to be touch'd, as if the Fleſh had been beaten.</p>
+            <p>Let Blood be taken away to the quantity of eight ounces.</p>
+            <p>Apply the Plaiſter of <hi>Galbanum</hi> to the Na<g ref="char:EOLunhyphen"/>vel: And next morning let the ſick perſon be<g ref="char:EOLhyphen"/>gin to uſe the following Pills.</p>
+            <p>Take of the Pills call'd <hi>Cochiae</hi> the greate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two drams; <hi>Caſtoreum</hi> powder'd, two grains Balſam of <hi>Peru,</hi> three drops: Make twelve Pills; of which take four every morning, of every ſecond day, according to your ſtrength, a<g ref="char:EOLunhyphen"/>bout four or five of the clock, ſleeping after them.</p>
+            <pb n="7" facs="tcp:102538:10"/>
+            <p>Take Rue water four ounces, compound Briony water two ounces, <hi>Caſtoreum</hi> tyed in a knot, and hung in the Glaſs, half a dram; Su<g ref="char:EOLhyphen"/>gar-candy a ſufficient quantity. Of this take four or five ſpoonfuls in every Fit. After the Pills take what follows.</p>
+            <p>Take Filings of Steel eight grains, and with a ſufficient quantity of Extract of Wormwood, make three Pills; which muſt be taken early in the morning, and repeated at five in the after<g ref="char:EOLhyphen"/>noon, for thirty days, drinking after them a draught of Wormwood Wine.</p>
+            <p>If the form of a Bolus be more grateful,</p>
+            <p>Take Conſerve of <hi>Roman</hi> Wormwood, and Conſerve of the yellow part of Orenges, of each one ounce; preſerv'd Angelica, Nutmeg preſerv'd, Treacle of <hi>Andromochas,</hi> of each half an ounce; compound Powder of <hi>Aron</hi> three drams, preſerv'd Ginger two drams, with a ſufficient quantity of the Syrup of the juice of Citrons, or (in want of that) Syrup of Orenges, make an Electuary.</p>
+            <p>Take of this Electuary two drams, Filings of Steel eight grains, and with a ſufficient quantity of Syrup of Orenges make a Bolus, which is to be taken morning and evening, drinking after it a draught of Wormwood Wine, or ſix ſpoonfuls of the following Infuſion.</p>
+            <p>Take Roots of Angelica, Elicampane, and Maſterwort, of each one ounce; Leaves of com<g ref="char:EOLhyphen"/>mon Wormwood, leſſer Centory, white Hore<g ref="char:EOLhyphen"/>hound and Germainder, of each one handful: the Barks of two Orenges ſlic'd; pour upon them ſo much <hi>Spaniſh</hi> Wine as will riſe two inches above them, and ſtrain it at the time of uſing it. Or,</p>
+            <pb n="8" facs="tcp:102538:11"/>
+            <p>To delicate perſons the Steel may be given in the form of a Powder, as follows.</p>
+            <p>Take Filings of Steel finely powder'd one ounce, compound Powder of <hi>Aron</hi> ſix drams, Coriander ſeed prepar'd, ſeeds of Aniſe and ſweet Fennel, of each half an ounce; the beſt Cinnamon, red Coral prepar'd, of each three drams; Nutmeg two drams: Beat them all in<g ref="char:EOLhyphen"/>to a very fine Powder, to which add of the beſt white Sugar to the weight of all the reſt. Take half a dram of this Powder in a Spoon, twice a day, four days together, and afterwards a whole dram twice every day for forty days, drinking after it ſix ſpoonfuls of the following Julep, or of Wormwood and Wine.</p>
+            <p>Take Milk water twelve ounces, compound <hi>Gentian</hi> water four ounces, Wormwood water of the greater compoſition two ounces; White Sugar a ſufficient quantity: Make a Julep. Or,</p>
+            <p>Take half a pint of Rheniſh Wine prepar'd with Wormwood, compound <hi>Gentian</hi> water two ounces, Syrup of Clove-Gilliflowers one ounce: Make a Julep.</p>
+            <p>Take choice Myrrh, Galbanum, and <hi>Aſſa foe<g ref="char:EOLhyphen"/>tida,</hi> of each one dram; <hi>Caſtoreum</hi> half a dram, with a ſufficient quantity of the Balſam of <hi>Peru,</hi> make them up into Pills, twelve out of each dram; of which take three every night, drinking after them three or four ſpoonfuls of compound Bryony water, during the whole proceſs of the Cure.</p>
+            <p>If theſe Pils move the Belly, uſe theſe that follow.</p>
+            <p>Take Caſtoreum, one dram; volatil ſalt of Amber, half a dram; with a ſufficient quantity of extract of Rue, make four and twenty Pills;
+<pb n="9" facs="tcp:102538:11"/> of which take three every night, drinking after them three or four ſpoonfuls of the Hyſterical Julep.</p>
+            <p>Spirit of Harts-horn exhibited frequently to ſixteen or eighteen drops, is of excellent uſe.</p>
+            <p>But if the Diſeaſe doth not yield to theſe re<g ref="char:EOLhyphen"/>medies, then take the following Pills.</p>
+            <p>Take Troches of Myrrh powder'd, one ſcru<g ref="char:EOLhyphen"/>ple, Balſom of Sulphur terebinthinated four drops; with a ſufficient quantity of Gum Am<g ref="char:EOLhyphen"/>moniac diſolv'd make four Pills; which muſt be taken morning and evening, drinking after them four or five ſpoonfuls of the Hyſterical Ju<g ref="char:EOLhyphen"/>lep, with twelve drops of Spirit of Harts-horn.</p>
+            <p>The Antiſcorbutic Electuary, with the Wa<g ref="char:EOLhyphen"/>ter there deſcribed, is good alſo in this Diſeaſe, and likewiſe the corroborating Electuary, with the addition of Conſerve of Garden Scurvy-Graſs, one ounce; compound powder of <hi>Aron,</hi> ſix drams, drinking after it the forementioned Water.</p>
+            <p>But if all theſe Remedies prove ineffectual, you muſt have recourſe to the waters that par<g ref="char:EOLhyphen"/>take of Iron; and if theſe alſo do no good, to thoſe that are ſulphureous, ſuch as are the <hi>Bath</hi> waters.</p>
+            <p>Concerning the uſe of the Mineral waters theſe things are to be obſerved. If any bad ſymptom appear, which may be aſcribed to the drinking of the water, in ſuch a caſe you muſt abſtain from them, till the ſymptom diſappear. Continue the uſe of them for ſix weeks at leaſt, rather two months. Eat now and then pre<g ref="char:EOLhyphen"/>ſerv'd Ginger, or Caraway ſeeds confected to warm the ſtomach. You may alſo take three of
+<pb n="10" facs="tcp:102538:12"/> the Hyſterical Pills the firſt ten nights, drinking after them four or five ſpoonfuls of the Hyſteri<g ref="char:EOLhyphen"/>cal Julep.</p>
+            <p>As for the <hi>Bath</hi> waters, you muſt dsink them two days, and bath in them the third, proceed<g ref="char:EOLhyphen"/>ing thus alternately ſix weeks or two months.</p>
+            <p>If the Steel heat the body too much, then du<g ref="char:EOLhyphen"/>ring the uſe of it drink every fourth morning four pints of Mineral purging waters: Which though they move the belly, yet cauſe no agi<g ref="char:EOLhyphen"/>tation, as the purging medicines of the ſhop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſually do.</p>
+         </div>
+         <div type="part">
+            <head>Of the Depuratory, or cleanſing Fever of the Years <hi>1661, 62, 63, 64.</hi>
+            </head>
+            <p>If the ſick perſon be young he muſt be le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blood in the arm, and the ſame day ſome hours after, or the next day, two hours after a light dinner let him take a Vomit of the infuſion o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Crocus Metallorum,</hi> and after that has done work<g ref="char:EOLunhyphen"/>ing, drink a Pacific Draught, ſuch as that which follows.</p>
+            <p>Take Black-Cherry water one ounce and half, Plague water half an ounce, liquid Lau<g ref="char:EOLunhyphen"/>danum ſixteen drops: Mix them for a Draught</p>
+            <p>From this to the eleventh or twelfth day, the following Clyſter is to be injected every morning</p>
+            <p>Take of the common Decoction for a Clyſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one pound (or the like quantity of Cows milk Brown Sugar and Syrup of Violets, of each two ounces. Make a Clyſter.</p>
+            <p>After that day ſuffer his Belly to be conſtip<g ref="char:EOLunhyphen"/>ted, that ſo the Febrile Matter may the ſoon be concocted, to which purpoſe alſo modera<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="11" facs="tcp:102538:12"/> Cordials exhibited during theſe laſt days, are very uſeful; as,</p>
+            <p>Take Powder of Crabs claws compound four<g ref="char:EOLhyphen"/>teen grains, Electuary <hi>de Ovo</hi> half a ſcruple, with a ſufficient quantity of Syrup of Clove-gilliflow<g ref="char:EOLhyphen"/>ers make a Bolus, which may be taken every eight hours, drinking after it five or ſix ſpoon<g ref="char:EOLhyphen"/>fuls of the following Julep.</p>
+            <p>Take Milk water, Black-Cherry water, of each three ounces; Plague water and Syrup of Clove-gilliflowers, of each one ounce: mix them and make a Julep, or ſuch like.</p>
+            <p>If you diligently obſerve this method, you will uſually about the fifteenth day perceive (both by the laudable breaking of the Urine, and the manifeſt remiſſion of all the Symptoms) that it is time to exhibit the common purging Potion.</p>
+         </div>
+         <div type="part">
+            <head>Of the Peſtilential Fever of the Years, <hi>1665, 66.</hi>
+            </head>
+            <p>After the ſick perſon hath been let blood in his Bed, let him be cover'd all over with Cloths, and his Forehead bound about with a piece of Woollen Cloth: and then if he doth not vomit, let ſome Medicine to procure Sweat be exhi<g ref="char:EOLhyphen"/>bited to him; as</p>
+            <p>Take Treacle of <hi>Andromachus</hi> half a dram, Electuary <hi>de Ovo</hi> one ſcruple, Powder of Crabs-claws compound twelve grains, Cochinel eight grains, Saffron four grains, with a ſufficient quantity of the juice of Kermes make a <hi>Bolus,</hi> which muſt be repeated every ſixth hour, drink<g ref="char:EOLhyphen"/>ing after it ſix ſpoonfuls of the following Julep.</p>
+            <p>Take <hi>Carduus Benedictus</hi> water, and com<g ref="char:EOLhyphen"/>pound
+<pb n="10" facs="tcp:102538:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:102538:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:102538:14"/> 
+               <hi>Scordium</hi> water, of each four ounces; d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill'd Treacle water, two ounces; Syrup of Clove-gilliflowers, one ounce: mix them for a Julep.</p>
+            <p>But if he be troubled with a vomiting, the Sudorific ought not to be given till the weight of the Cloths alone make the Sweat begin to ap<g ref="char:EOLunhyphen"/>pear, his Face being in the mean while cover'd with part of the Sheets:</p>
+            <p>The Sweat thus begun muſt be promoted with repeated draughts of Sage Poſſet, or Bee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> boil'd with a little Mace, and continued in this manner the ſpace of a natural day, or 24 hours during which time he may be allow'd ſome dcomfortable Broths for his refreſhment.</p>
+            <p>After the breaking forth of a Swelling, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> durſt not open a Vein. Let the ſick perſon keep his Bed four and twenty hours after the Sweat<g ref="char:EOLhyphen"/>ing is over, and diligently avoid all manner of Cold, ſuffering his Shirt to dry of it ſelf upon his body. Let him drink nothing but what is hot, and ſtill perſiſt in the uſe of Sage Poſſet Next morning let him take the common purging Potion.</p>
+            <p>The Years 1667, 1668, produc'd the Small Pox, and a Fever partaking of their nature.</p>
+            <p>In the Years 1669, 70, 71, 72. A Dyſen<g ref="char:EOLunhyphen"/>terical Fever reign'd.</p>
+            <p>And the Years 1673, 74, 75, were infeſte with a Comaton or Sleepy Fever.</p>
+            <p>I do not inſiſt upon the cure of theſe Fevers becauſe I am of opinion that they might have been cur'd by the method deſcrib'd in the ac<g ref="char:EOLunhyphen"/>count of the Fever of the Years, 1685, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:102538:14"/>
+            <head>Of Intermitting Fevers.</head>
+            <p>They begin with Cold and Shivering, which is immediately followed with Heat, and that with Sweating, after which the Fever diſappears, though during the firſt days of the Diſeaſe, eſ<g ref="char:EOLhyphen"/>pecially in Autumn, there ſometimes happens a Remiſſion, rather than a proper Intermiſſion of the Fever. Both the cold and hot fit are for the moſt part attended with an inclination to vomit, vehement ſickneſs, thirſt and drineſs of the Tongue. The ſwelling of the <hi>Abdomen</hi> in Chil<g ref="char:EOLhyphen"/>dren, and of the Feet in Men, ſignify the ſolu<g ref="char:EOLhyphen"/>tion of the Fever: The Pain in the Jaws, Hoarſeneſs, Hollow Eyes, and a ghaſtly Coun<g ref="char:EOLhyphen"/>tenance portend Death.</p>
+            <p>Take of the <hi>Peruvian</hi> Bark finely powder'd, one ounce, and with a ſufficient quantity of Sy<g ref="char:EOLhyphen"/>rup of Clove-gilliflowers, or of dry'd Roſes, make an Electuary, to be divided into twelve Doſes, of which one is to be taken every four hours, drinking after it a draught of any ſort of Wine, beginning immediately after the Fit.</p>
+            <p>But if theſe Bolus's move the Belly, pour ten drops of liquid Laudanum into the draught of Wine after every ſecond Doſe, as you ſee oc<g ref="char:EOLhyphen"/>caſion.</p>
+            <p>To prevent Relapſes (eſpecially of Quartans) the foregoing proceſs muſt be thrice repeated in the three following weeks.</p>
+            <p>If the form of Pills be more grateful,</p>
+            <p>Take the <hi>Peruvian</hi> Bark powder'd, one ounce; and with a ſufficient quantity of Syrup of Clove-gilliflowers make Pills of a moderate big<g ref="char:EOLhyphen"/>neſs;
+<pb n="14" facs="tcp:102538:15"/> of which take ſix every fourth hour.</p>
+            <p>Take of the <hi>Peruvian</hi> Bark powder'd, two ounces, Rheniſh wine two pounds (or a quart) Let them ſtand together in a cold Infuſion, and ſtrain them through a Woollen Cloath. Doſe three ounces every fourth hour.</p>
+         </div>
+         <div type="part">
+            <head>Another method of curing Tertians.</head>
+            <p>Take <hi>Virginian</hi> Snakeweed finely powder'd fifteen grains, White-wine three ounces: Give it to the ſick perſon two hours before the Fit and covering him with cloaths let him ſweat three or four hours: Repeat the ſame Doſes the two following Fit-days in the ſame manner.</p>
+         </div>
+         <div type="part">
+            <head>Of Intermitting Fevers in Children.</head>
+            <p>Take Black-Cherry water, and Rheniſh wine of each two ounces; the <hi>Peruvian</hi> Bark in fine powder, three drams; Syrup of Clove-gilliflow<g ref="char:EOLunhyphen"/>ers one ounce: Mix them, and make a Julep Doſe, a ſpoonful or two, according to the Child Age, every fourth hour, till the Fits return no more; pouring into every ſecond Doſe, if there be a Diarrhaea, one or two drops of liquid La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>danum.</p>
+         </div>
+         <div type="part">
+            <head>Of the preſent Fever from the year <hi>1685</hi> to <hi>90.</hi>
+            </head>
+            <p>The ſigns are Heat and Cold coming by turn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pain in the Head and Limbs, the Pulſe in the mean time almoſt well, ſometimes a Cough, a Pain about the Neck and Jaws, the exacerbation of the Fe<g ref="char:EOLunhyphen"/>ver towards night, unquietneſs, thirſt, the
+<pb n="15" facs="tcp:102538:15"/> Tongue either moiſt and cover'd all over with a white and rough film, or dry and of a dark co<g ref="char:EOLhyphen"/>lour in the middle, which is compaſt about with a whitiſh border. They that conſtantly keep their Beds are thereby expos'd to Coma's and Phrenſies; and Spots, Purple Specks, Miliar Eruptions (as they are call'd) which are redder than Meaſles, irregularity of the Pulſe, ſtarting of the Tendons, and at laſt Death are the effects of a hot <hi>Regimen.</hi> In the beginning Symptoma<g ref="char:EOLhyphen"/>tical Sweats appear, which if provok'd by art, break forth clammy in the Head, and tranſlate the morbific matter to the Head or Limbs.</p>
+            <p>Let the ſick perſon be let blood in the Arm, and ten ounces of Blood taken from him; which muſt be repeated, if difficulty of Breathing, a rending Pain in the Head, with a Cough, and other ſigns of a baſtard <hi>Peripneumonia</hi> appear. For in this caſe both the letting of Blood and Purg<g ref="char:EOLhyphen"/>ing muſt be conſtantly repeated till the ſick per<g ref="char:EOLhyphen"/>ſon recover.</p>
+            <p>At night let a Bliſtering Plaiſter be apply'd, and the next morning a Lenitive Potion pre<g ref="char:EOLhyphen"/>ſcrib'd, which muſt be thrice repeated every ſe<g ref="char:EOLhyphen"/>cond day; and always after Purging a compoſing Draught is to be taken at night.</p>
+            <p>Take Cowſlip water three ounces, Syrup of <hi>Meconium</hi> one ounce, juice of Limons newly preſt out, two ſpoonfuls: Mix them for a Draught.</p>
+            <p>Bliſters in the Mouth and Throat, as alſo the Hickup do ſometimes come of themſelves after the Fever is cur'd, and uſually go away of themſelves quickly after. But if they ſtay long, they may be eaſily driven away by one ounce of
+<pb n="16" facs="tcp:102538:16"/> the <hi>Peruvian</hi> Bark, reduc'd into an Electuary or Pills with the Syrup of Red Poppies, drinking after every doſe a draught of Whey. This Re<g ref="char:EOLhyphen"/>medy will moſt certainly prove effectual, if its vertue be not eluded by conſtant lying in a Bed.</p>
+            <p>In thoſe days that are free from Purgation the following things are to be preſcrib'd.</p>
+            <p>Take Conſerve of Wood-Sorrel, of Sweet-briar, of each one ounce; Conſerve of Barbe<g ref="char:EOLhyphen"/>ries half an ounce, Cream of Tartar one dram; with a ſufficient quantity of Syrup of Limons make an Electuary; of which take about the bigneſs of a Nutmeg thrice in the day, drinking after it ſix ſpoonfuls of the following Julep.</p>
+            <p>Take Water of Purſlain, of Lettuce and of Cowſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ips, of each three ounces; Syrup of Li<g ref="char:EOLhyphen"/>mons one ounce and a half, Syrup of Violets one ounce: Mix them and make a Julep.</p>
+            <p>If the Stomach be ſo diſorder'd by the Fever, that it cannot retain a Potion, preſcribe the Pills <hi>Cochiae</hi> the greater, two ſcruples for a doſe, and alſo a Medicine to procure Sleep; for example, one grain and a half of <hi>London</hi> Laudanum, with the like quantity of Maſtick, or eighteen drops of liquid Laudanum in one ounce of Barley Cin<g ref="char:EOLhyphen"/>namon water.</p>
+            <p>Let the ſick perſon drink the white Decocti<g ref="char:EOLhyphen"/>on, and Small Beer alſo at his pleaſure.</p>
+         </div>
+         <div type="part">
+            <head>Of the Fever of the preſent Conſtitution in Children.</head>
+            <p>Let two Leeches be applied, one behind each Ear, and a Bliſtering Plaiſter to the hinder part of the Neck.</p>
+            <p>Let them be purg'd with the Infuſion of Rheu<g ref="char:EOLhyphen"/>barb in Beer.</p>
+            <pb n="17" facs="tcp:102538:16"/>
+            <p>If after Purgation the Fever ſeem to intermit, give them the Julep with the <hi>Peruvian</hi> Bark, de<g ref="char:EOLhyphen"/>ſcrib'd in the Chapter of Intermitting Fevers in Children.</p>
+         </div>
+         <div type="part">
+            <head>Of the Scarlet Fever.</head>
+            <p>Children are chiefly infeſted with it about the latter end of Summer. At the firſt they are ſeiz'd with a coldneſs and ſhivering, yet are not they very ſick. The whole Skin is ſpotted with little red ſpecks, that are thicker, broader, and of a redder colour than in the Meaſles. They conti<g ref="char:EOLhyphen"/>nue two or three days, and then diſappear, and the upmoſt Skin falling off, that which is under it appears ſtain'd with Meaſly Scales.</p>
+            <p>Take burnt Harts-horn and compound Pow<g ref="char:EOLhyphen"/>der of Crabs claws, of each half a dram; Cochi<g ref="char:EOLhyphen"/>nel two grains, Sugar-candy one dram: mix them, and beat them to a very fine Powder, to be divided into twelve Papers, of which one is to be taken every ſixth hour, drinking after them two or three ſpoonfuls of the following Julep.</p>
+            <p>Take Black Cherry water, Milk-water, of each three ounces; Syrup of the juice of Citrons one ounce: Mix them and make a Julep.</p>
+            <p>Let a bliſtering Plaſter be alſo apply'd to the hinder part of the Neck, and every night exhi<g ref="char:EOLhyphen"/>bit a compoſing Draught of Syrup of Meconi<g ref="char:EOLhyphen"/>um; and, the Symptoms ceaſing, preſcribe a Purging Medicine.</p>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:102538:17"/>
+            <head>Of the Pleuriſie.</head>
+            <p>It reigns between the Spring and Summer. It begins with Coldneſs and Shivering, which are quickly accompanied with Heat, Thirſt, Un<g ref="char:EOLhyphen"/>quietneſs and the other ſymptoms of a Fever. After a few hours a pricking pain is felt in one of the Sides, about the Ribs, which ſometimes ſtretches it ſelf towards the Shoulder-blades, ſometimes to the Back, and ſometimes towards the Breaſt. The matter that is ejected with the Spittle in the beginning of the Diſeaſe appears thin and in little quantity, and is often mixt with particles of blood; but afterwards it is rais'd more copiouſly, is better concocted, and ſtill appears mixt with blood. The Fever holds pace with the Cough, ſpitting of blood and pain, and, according as the expectoration is more or leſs free, abates by degrees. The Belly is ſome<g ref="char:EOLhyphen"/>times conſtipated, and ſometimes too looſe. The Blood of Pleuritie Perſons reſembles melted Tallow, when it is cooled.</p>
+            <p>Let a Vein be opened in the Arm of the affect<g ref="char:EOLhyphen"/>ed Side, and ten ounces of Blood extracted.</p>
+            <p>Take Red Poppy water four ounces, <hi>Sal Pru<g ref="char:EOLhyphen"/>nellae</hi> one dram, Syrup of Violets one ounce: Mix them for a Draught to be taken immedi<g ref="char:EOLhyphen"/>ately after the firſt Blood-letting.</p>
+            <p>Take five Almonds peel'd, Seeds of Melons and Pompions, of each half an ounce; White Poppy Seeds three drams, Barley water one pound [pint] and an half; Roſe water two drams, with a ſufficient quantity of Sugar-candy make an Emulſion according to art. Doſe four ounces every four hours.</p>
+            <pb n="19" facs="tcp:102538:17"/>
+            <p>Take of the Pectoral Decoction two pounds, Syrup of Violets, and of Maiden-hair, of each one ounce and a half; mix them and make an Apozem: Doſe half a pound thrice in the day.</p>
+            <p>Take Oil of Sweet Almonds two ounces, Syrup of Violets and of Maiden-hair, of each one ounce; Sugar-candy as much as is ſufficient: Mix them, and make an Eclegma or licking Medicine to be frequently uſed.</p>
+            <p>Oil of Sweet Almonds by it ſelf, or Linſeed Oil may alſo be exhibited.</p>
+            <p>Take Oil of Sweet Almonds, of Lillies, and the Ointment <hi>Dialtheae,</hi> of each one ounce; mix and make a Linement, wherewith the affected Side may be anointed morning and evening, lay<g ref="char:EOLhyphen"/>ing over it a Cabbage Leaf.</p>
+            <p>The Letting of Blood muſt be repeated yet three times more, extracting ſtill the ſame quan<g ref="char:EOLhyphen"/>tity of Blood for four days together; if the pain and difficulty of breathing ſeem to require it.</p>
+         </div>
+         <div type="part">
+            <head>Of the Baſtard Peripneumonia.</head>
+            <p>It begins to appear upon the approach of Winter, and oftentimes towards the end thereof. At the firſt the ſick perſon is hot and cold by turns, he cannot ſtir without being troubled with dizzineſs or ſwimming of the head; his Cheeks or Eyes are red and inflam'd; he coughs, and in coughing is tormented with a rending pain in the Head; he vomits up liquid things; his U<g ref="char:EOLhyphen"/>rine is thick, and very red, his Blood reſembles that of a Pleuritic Perſon; he breathes thick and ſhort, with a pain in his Breaſt. This Diſeaſe is plainly diſtinguiſhed from a dry <hi>Aſchma,</hi>
+               <pb n="20" facs="tcp:102538:18"/> in which no ſigns of a Fever appear, but in this are manifeſtly diſcover'd, though they are much more obſcure and leſs violent than in a true <hi>Pe<g ref="char:EOLhyphen"/>ripneumonia.</hi>
+            </p>
+            <p>Let the ſick perſon be let blood in the right Arm to the quantity of ten ounces, and the next day take this Potion.</p>
+            <p>Take extracted Caſſia one ounce, Liquoriſh two drams, four fat Figs, Leaves of Sena two drams and a half, Troches of Agaric one dram: Boil them in a ſufficient quantity of Water to four ounces; then ſtrain, and diſſolve in the li<g ref="char:EOLhyphen"/>quor Manna one ounce, ſolutive Syrup of Roſes half an ounce.</p>
+            <p>But if he cannot take a Potion, let him take two ſcruples of the Pills <hi>Cochiae</hi> the greater, at four in the morning.</p>
+            <p>The day following let a Vein be open'd again, and the ſame quantity of Blood extracted as for<g ref="char:EOLhyphen"/>merly, and the day after let the purging Medi<g ref="char:EOLhyphen"/>cine be again exhibited, and afterwards repeat<g ref="char:EOLhyphen"/>ed once in three days. if the conſideration of his ſtrength do not require longer Intervals to be al<g ref="char:EOLhyphen"/>low'd him. Moreover, if the Symptoms ſtill continue, he muſt be again let blood once, twice; or oftner, interpoſing always ſome days, as you ſee occaſion; but for the moſt part the ſecond Letting of Blood will be ſufficient. In the mean time, while this method is proſecuted, let him uſe the Pectoral Decoction, Eclegma and Oil of Sweet Almonds, preſcrib'd in the foregoing Chapter, eſpecially in the days that are free from Purgation.</p>
+         </div>
+         <div type="part">
+            <pb n="21" facs="tcp:102538:18"/>
+            <head>Of the Rheumatiſm.</head>
+            <p>In this Diſeaſe they are firſt taken with cold<g ref="char:EOLhyphen"/>neſs and ſhivering, and the other ſymptoms of a Fever; and after a day or two (ſometimes ſooner) they are ſeiz'd with a moſt ſharp pain, ſometimes in one part and ſometimes in another, but eſpecially in the Wriſts, Shoulders and Knees, which it leaves and aſſaults by turns, the part laſt affected remaining for ſome time after red and ſwoln. The Fever wears off by degrees, the pain ſtill continuing, yea and ſometimes rag<g ref="char:EOLhyphen"/>ing more cruelly than before. In Rheumatic Aches of the Loins, there is a moſt violent pain that remains fix'd about the region of the Loins, and counterfeits the Stone; only the ſick perſon is not troubled with a deſire to vomit. He can<g ref="char:EOLhyphen"/>not lie in his Bed, but either leaps out of it, or ſits upright in it, perpetually toſſing his body backwards and forwards. The Blood is like that in a Pleuriſie.</p>
+            <p>Let ten ounces of Blood be taken from the Arm, of the ſide affected.</p>
+            <p>Take Water of Lettuce, Purſlain and Water-Lillies, of each four ounces; Syrup of Limons one ounce and a half, Syrup of Violets one ounce: Mix and make a Julep to be drunk at pleaſure.</p>
+            <p>Preſcribe an Emulſion of the four greater cold ſeeds; and a Cataplaſm of the Crums of white Bread and Milk, ting'd with Saffron, to be apply'd to the part affected.</p>
+            <p>The day after let the ſame quantity of Blood be taken away as before, which muſt be repeat<g ref="char:EOLhyphen"/>ed
+<pb n="22" facs="tcp:102538:19"/> after a day or two, and the ſame operation muſt be reiterated four times, or oftner, if need require: Obſerving that after the ſecond time there muſt ſtill be greater intervals interpos'd.</p>
+            <p>In the days that are free from Phlebotomy, let a Clyſter of Sugared Milk be now and then injected, or that which follows.</p>
+            <p>Take of the common Decoction for a Clyſter one pound, Syrup of Violets, and Brown Sugar, of each two ounces; Mix them for a Clyſter.</p>
+            <p>If the Patients Weakneſs will not permit the repeated taking away of his blood, then after the ſecond or third time, the Cure is to be thus attempted.</p>
+            <p>Let him take the common Purging Potion every ſecond day, while his illneſs continues, and the ſame nights a compoſing Draught of the Syrup of <hi>Meconium.</hi>
+            </p>
+            <p>But if theſe Remedies prove ineffectual, and the Feebleneſs of the Patient be ſuch, that he can<g ref="char:EOLhyphen"/>not bear any Evacuations, let him uſe the Anti<g ref="char:EOLhyphen"/>ſcorbutic Electuary and Water deſcrib'd in the Chapter of the Scurvy, which are alſo uſeful in the Scorbutic Rheumatiſm.</p>
+            <p>In young perſons, and ſuch who are not much addicted to Wine, the Rheumatiſm may be as happily cured by a very cooling and indifferently nouriſhing Diet, as by repeated letting of blood, which they cannot ſo well bear. For example,</p>
+            <p>Let the Patient live only upon Whey four days together; and afterwards beſides his Whey, he may, once in the day, inſtead of a Dinner, eat a little Bread made of fine Flower, till he perfectly recover: Only during the laſt days of his Illneſs, he may be allowed to eat another
+<pb n="23" facs="tcp:102538:19"/> piece of Bread for his Supper. After the ceaſing of the Symptoms, he may eat boil'd Chickens, and other Meats of eaſy digeſtion, obſerving every third day to feed only upon Whey, till he be perfectly reſtor'd to his former Health.</p>
+         </div>
+         <div type="part">
+            <head>Of the Eryſipelatous Fever.</head>
+            <p>All the parts of the Body, eſpecially the Face, are ſwoln, red and full of pain. The Face and Head are overſpread with little, thick Pimples, which ſometimes riſe into Bliſters, the Eyes are hid under the Swelling; Coldneſs, Shivering and other ſigns of a Fever do alſo ap<g ref="char:EOLhyphen"/>pear. There is another ſpecies of this Diſeaſe, caus'd by the drinking of attenuating Liquors, in which there is a ſlight Fever, accompanied with Wheals, like the puſhes that are cauſed by the pricking of Nettles, which ſometimes riſe up into Bliſters, then immediately vaniſh, and lurking under the skin, where they occaſion a very troubleſome itching, after ſcratching they appear again. There is alſo another kind of Eruption, which uſually breaks out in the Breaſt; and is a broad ſpot that hardly riſes above the skin, being ſcurfy and full of yellow Scales. The Perſon affected with it is well ſo long as it continues, but after its diſappearing there follows a ſlight ſickneſs, and the Urine looks troubled and yellow. It is cured with the ſame Remedies that are preſcrib'd for a confir<g ref="char:EOLhyphen"/>med Itch. Let the Patient drink Wine, and feed upon Meats of eaſy digeſtion.</p>
+            <p>Let a Vein be open'd in the Arm, and nine or ten ounces of blood taken away. The next
+<pb n="24" facs="tcp:102538:20"/> day let the common purging Potion be exhi<g ref="char:EOLhyphen"/>bited.</p>
+            <p>Take of the Roots of Marſh-mallows and Lillies, of each one ounce; Leaves of Mallows, Elder, and Baſe Mullein, Flowers of Cammo<g ref="char:EOLhyphen"/>mil, and Melilot, Tops of St. Johns-wort and Leſſer Centory, of each one handful; Lin-ſeed, Fennyreek ſeed, of each half an ounce. Boil them in a convenient quantity of water to three pounds; ſtrain out the Liquor, and when you uſe it add to every pound two ounces of Spirit of Wine. Dip pieces of Woollen Cloth in this Decoction, and having ſqueez'd them, apply them hot twice every day, anointing the part affected after fomentation, with the following mixture.</p>
+            <p>Take half a pound of Spirit of Wine; Treacle of <hi>Andromachus</hi> two ounces, powder of Long Pepper and Cloves, of each two drams. Make a Mixture, in which dip a piece of Brown Pa<g ref="char:EOLhyphen"/>per and wrap about the part affected.</p>
+            <p>If the firſt Letting of Blood be not ſufficient, let it be repeated; and if the Diſeaſe ſtill con<g ref="char:EOLhyphen"/>tinue, the ſame muſt be reiterated yet once and again, interpoſing always one day.</p>
+            <p>In the days that are free from letting of blood, preſcribe a Clyſter of Milk with Syrup of Vi<g ref="char:EOLhyphen"/>olets, and cooling Emulſions and Juleps.</p>
+         </div>
+         <div type="part">
+            <head>Of the raging Itch and other inveterate Diſeaſes of the Skin, which are not curable by Letting of Blood and Purging.</head>
+            <p>Take Treacle of <hi>Andromachus</hi> half a dram, the Electuary <hi>de Ovo</hi> one ſcruple, the Root of Vir<g ref="char:EOLhyphen"/>ginian
+<pb n="25" facs="tcp:102538:20"/> Snakeweek in fine powder, fifteen grains; Oriential Bezoar, five grains: with a ſufficient quantity of the Syrup of Citron pickle, make a Bolus, to be taken at the time of going to bed one and twenty days together, drinking after it ſix ſpoonfuls of this Julep.</p>
+            <p>Take of <hi>Carduus Benedictus</hi> water, ſix ounces, diſtill'd Treacle water, Plague water, of each two ounces; Syrup of Clove-gilliflowers, one ounce: mix and make a Julep.</p>
+            <p>Let the Patient drink every morning half a pint of warm Poſſet, and ſweat an hour after it.</p>
+            <p>This courſe being ended, if the Pimples ſtill remain, let the parts affected be anointed with the following Liniment.</p>
+            <p>Take of the Ointment of ſharp-pointed dock, two ounces; Pomate, one ounce; Flowers of Brimſtone, three drams; <hi>Oleum Rhodij,</hi> half a ſcruple: make a Liniment.</p>
+            <p>But theſe Remedies ought not to be uſed, till the Patients Body hath been firſt duely prepar'd by letting of Blood and Purging.</p>
+         </div>
+         <div type="part">
+            <head>Of the Quinſy.</head>
+            <p>The Quinſy doth moſt frequently occur be<g ref="char:EOLhyphen"/>twixt the Spring and Summer. The firſt aſſault of the Fever is ſeconded by a pain and inflama<g ref="char:EOLhyphen"/>tion of the Jaws; which together with the ſwel<g ref="char:EOLhyphen"/>ling of the Uvula, Tonſils and Laryux, renders the ſick perſon unable either to ſwallow or breath.</p>
+            <p>Let a Vein be opened in the Arm, and a great quantity of Blood taken away. Let the
+<pb n="26" facs="tcp:102538:21"/> inflam'd parts be touch'd with Honey of Roſes, impregnated to a very high degree of acidity with Spirit of Vitriol, or of Sulphur, or with Spirit of Vitriol alone. Preſently after let the following Gargariſm be preſcribed, to be uſed, not after the uſual manner, but held in the mouth, without any agitation, till it grow hot, and then ſpit out, and ever and anon repeated.</p>
+            <p>Take Plantain water, Roſe water, and Frogs Sperm water, of each four ounces; the Whites of three Eggs, by ſhaking reduc'd into water; Sugar-candy three drams: Mix and make a Gargariſm.</p>
+            <p>Let the cooling Emulſion preſcribed for the Pleuriſy be daily uſed.</p>
+            <p>Next morning, unleſs the Fever and Diffi<g ref="char:EOLhyphen"/>culty of Swallowing be abated, the Letting of Blood muſt be repeated, and the Purgation de<g ref="char:EOLhyphen"/>lay'd till the day after, which otherwiſe ought to have been attempted with ſome lenitive Me<g ref="char:EOLhyphen"/>dicine.</p>
+            <p>If after all the Diſeaſe doth continue (which happens very rarely) both the Letting of Blood and Purging muſt be reiterated. Let a large and ſharp Bliſtering Plaiſter be applied to the hinder part of the Neck after the firſt Letting of Blood.</p>
+            <p>Every day that is free from Purging, let a cooling and ſoftning Clyſter be injected in the morning. Let the Patient uſe a thin Diet, and abſtain from his Bed every day for ſome hours.</p>
+            <p>In all theſe Fevers which I call intercurrent, as alſo in that of the preſent conſtitution, it is diligently to be obſerved, that the ſick perſon muſt abſtain from his Bed a great part of the
+<pb n="27" facs="tcp:102538:21"/> day, and that he muſt feed upon Barley or Oat-meal Broths, and ſuch like things, and uſe ſmall Beer hopp'd, and Milk and Water for his or<g ref="char:EOLhyphen"/>dinary Drink.</p>
+         </div>
+         <div type="part">
+            <head>Of the Meaſles.</head>
+            <p>They chiefly invade Children. The firſt day they are taken with a chilneſs and ſhivering, and grow hot and cold by turns. The ſecond day the Fever is perfected, and the following Symp<g ref="char:EOLhyphen"/>toms appear. Vehement Sickneſs, Thirſt, want of Appetite, the Tongue is white (but not dry) a little Cough, heavineſs of the Head and Eyes, and an inclination to ſleep, a humour perpetual<g ref="char:EOLhyphen"/>ly dropping from the Noſe and Eyes, which tears are a moſt certain ſign of the Meaſles. As alſo ſneezing, ſwelling of the Eye-lids a little before the Eruption, Vomiting, a Diarrhaea or Looſneſs, Greenneſs of the Excrements, eſpe<g ref="char:EOLhyphen"/>cially in Children that are breeding Teeth. The Symptoms increaſe till the fourth day, in which (and ſometimes in the fifth) the Forehead and Face begin to be marked with little red ſpecks, not unlike to Flea-bitings, which being after<g ref="char:EOLhyphen"/>wards augmented both in bigneſs and number, run together in cluſters, and ſtain the face with great red ſpots, that are made up of ſmall puſhes raiſed, ſo little above the Skin, that you can hardly perceive the protuberancy of them with your Eye, though you may feel it by ſlightly touching them with your Fingers.</p>
+            <p>From the Face, where at the firſt they only appear, they ſpread themſelves over the Breaſt, Belly, and laſt of all the Legs, in which parts
+<pb n="28" facs="tcp:102538:22"/> they are broad and red, and riſe not above the ſurface of the skin. After the Eruption of the Meaſles the ſymptoms are not mitigated, as in the Small-pox. The Vomiting indeed ceaſes, but the Fever, Cough and Difficulty of Breath<g ref="char:EOLhyphen"/>ing are increaſed, and the defluction upon the Eyes, the drowſineſs and dejection of Appetite ſtill continue. On the ſixth day or thereabout, the Forehead and Face grow rough, the wheals dying away, and the upmoſt skin being broken, in the reſt of the Body the ſpots appear very broad and red. About the eighth day theſe in the Face vaniſh, and ſcarcely are there any to be ſeen in the reſt of the Body. The day fol<g ref="char:EOLhyphen"/>lowing they diſappear entirely, leaving behind them certain mealy ſcales in the Face and Limbs, and ſometimes over all the Body; and at this time the Fever, Cough, and difficulty of Breath<g ref="char:EOLhyphen"/>ing increaſe. In adult perſons that are kept hot, the ſpots grow firſt livid and then black.</p>
+            <p>Take of the Pectoral Decoction, a pound and a half; Syrup of Violets,, and of Maiden-hair, of each an ounce and a half: mix and make an Apozem. Doſe three or four ounces, three or four times in the day.</p>
+            <p>Take of Oil of ſweet Almonds, two ounces; Syrup of Violets, and of Maiden-hair, of each an ounce; White Sugar-candy, as much as ſuf<g ref="char:EOLhyphen"/>ficeth: mix and make an Eclegma, to be taken often licking, eſpecially when the Cough is troubleſome.</p>
+            <p>Take of Black, Cherry water, three ounces; Syrup of <hi>Meconium,</hi> one ounce: mix them for a Draught, which is to be taken every night, from the beginning to the end of the Diſeaſe,
+<pb n="29" facs="tcp:102538:22"/> augmenting or leſſening the Doſe according to the Age of the Patient.</p>
+            <p>Let the ſick perſons keep their Beds two days, after the firſt Eruption of the ſpots.</p>
+            <p>If after the diſappearing of the Meaſles, they be ſucceeded by a Fever, difficulty of Breathing and other Symptoms counterfeiting a <hi>Peripneu<g ref="char:EOLhyphen"/>monia,</hi> in ſuch a caſe a Vein in the Arm is to be opened and a great quantity of Blood taken away, once, twice or thrice, as the occaſion ſhall re<g ref="char:EOLhyphen"/>quire, interpoſing always a convenient ſpace of time betwixt. Let the Patient alſo continue the uſe of the Pectoral Decoction above deſcribed as alſo of the Lohoth, or Oil of Sweet Almonds by it ſelf. And about the twelfth day from the firſt beginning of the Diſeaſe, let him be purg'd with a Lenitive Medicine.</p>
+            <p>The Diarrhaea or Looſeneſs, that comes af<g ref="char:EOLhyphen"/>ter the Meaſles, is cured by letting of Blood.</p>
+         </div>
+         <div type="part">
+            <head>Of the Small Pox.</head>
+            <p>They are of two kinds, the Diſtinct and Run<g ref="char:EOLhyphen"/>ning Pox. The firſt at the beginning are at<g ref="char:EOLhyphen"/>tended with Chilneſs and Shivering, intenſe Heat, vehement pain of the Head and Back, diſ<g ref="char:EOLhyphen"/>poſition to Vomit; in Adult perſons, with a great propenſion to Sweat (from whence you may gather that they will not run together), a pain under the hollow part of the Breaſt, if it be preſt with the Hand, Dulneſs and Sleepineſs, and ſometimes Epileptic Fits (eſpecially in Chil<g ref="char:EOLhyphen"/>dren) which if they come after the breeding of Teeth is over, you may foretel that the Small Pox is at hand; inſomuch that if the Epileptic
+<pb n="30" facs="tcp:102538:23"/> Fit happens over night, the Pocks will ſhew themſelves next morning, and are for the moſt part of a mild ſort, and very rarely run together. On the fourth day incluſively from the begin<g ref="char:EOLhyphen"/>ning, and ſometimes later, but rarely ſooner, the Pocks break out, at which time the ſymp<g ref="char:EOLhyphen"/>toms either abate, or entirely diſappear. At the firſt, Reddiſh Puſhes appear ſcattered over the Face, Neck, Breaſt and the whole Body; then comes a Pain in the Jaws, which increaſeth as the Pocks riſe higher. About the eighth day from the firſt invaſion of the Diſeaſe, the inter<g ref="char:EOLhyphen"/>vals between the Pimples, which were hitherto white, begin to be red and ſwoln, and affected with a diſtending Pain; the Eye-lids ſwell, and like blown Bladders cover the Eyes. Next af<g ref="char:EOLhyphen"/>ter the Face the Hands ſwell, and the Fingers are diſtended; the Pocks in the Face which be<g ref="char:EOLhyphen"/>fore were ſmooth and red, now appear rough (which is the firſt ſign of maturation) and whitiſh: Moreover they caſt forth a yellowiſh Juice, in colour not unlike a Honey-comb. The Inflamation of the Face and Hands being now at the height, the intervals between the Pimples appear of a florid colour, like that of Damask Roſes, and the more benign the Pocks are, ſo much the more lively do both they, and the skin between them expreſs that colour. The Pim<g ref="char:EOLhyphen"/>ples in the Face grow ſtill rougher nnd yellower as they grow riper; but in the Hands and the reſt of the Body, they daily grow whiter and leſs rough. The eleventh day the Swelling and In<g ref="char:EOLhyphen"/>flammation abates, and the Pocks being arriv'd at their due maturity and bigneſs (which equals that of the greater ſort of Peaſe) wither and fall
+<pb n="31" facs="tcp:102538:23"/> off. On the fourteenth or fifteenth they periſh entirely; but they in the Hands are of a more obſtinate nature; and being ſtill white and freſh they continue a day or two longer, after which they break; whilſt theſe that are in the Face and the reſt of the Body fall off in Scales, which in the Face are ſucceeded by Holes or Pits. Du<g ref="char:EOLhyphen"/>ring the whole courſe of the Diſeaſe, the Belly is either quite conſtipated, or very rarely per<g ref="char:EOLhyphen"/>forms its Office. The greateſt part of thoſe to whom this Diſeaſe proves mortal, die on the eighth day in the Diſtinct, and on the eleventh in the Running Kind. For when, in the firſt ſort of Pocks, Sweating is promoted with Cordials or a hot Regimen, on the foremention'd day, the Face, which ſhould be ſwoln and inflam'd in the diſtances between the Pimples, on the con<g ref="char:EOLhyphen"/>trary appears flaccid and whitiſh; whilſt in the mean time the Pocks are red and high, and even continue to be ſo after Death: That Sweat alſo, which had hitherto flow'd abundantly, ſuddenly diſappears: The Sick Perſon becomes light-headed, vehemently ſick and anxious, toſſeth his Body, piſſeth little and often, and within a few hours expires.</p>
+            <p>In the Running kind the Symptoms are the ſame, but more violent: The Fever (for exam<g ref="char:EOLhyphen"/>ple) Anxiety, Sickneſs, Diſpoſition to vomit, <hi>&amp;c.</hi> do more cruelly torment the diſeaſed Per<g ref="char:EOLhyphen"/>ſon; but there is not the ſame propenſion to ſweat, as in the other kind. A Looſeneſs ſome<g ref="char:EOLhyphen"/>times comes before the Eruption of the Pocks, and continues a day or two after, which ſcarce ever happens in the Diſtinct ſort. On the third day, or ſooner, rarely later, they break out, and
+<pb n="32" facs="tcp:102538:24"/> the ſooner they appear, the more they run to<g ref="char:EOLhyphen"/>gether. Sometimss their Eruption is retarded till the fourth or fifth day, by the violence of ſome Symptom, ſuch as (for example) a Pain in the Loins, Side or Limbs, counterfeiting the Stone, Pleuriſy or Rheumatiſm, or in the Sto<g ref="char:EOLhyphen"/>mach with vehement Sickneſs and Vomiting. The Symptoms abate not immediately after the coming out of the Pocks, as they do in the other kind; but the Fever and the reſt alſo continue to afflict the ſick perſon many days afterwards. Sometimes they break forth after the manner of Eryſipelas, and ſometimes like the Meaſles, but are plainly diſtinguiſh'd by the time of the Erup<g ref="char:EOLhyphen"/>tion. During the progreſs of the Diſeaſe, they do not riſe to any conſiderable height, but being intangled together in the Face, like red Bliſters, they cover the whole Countenance, which ſwells ſooner than in the Diſtinct kind. Afterward they appear like a white skin glu'd to the Face, and are not much higher than the Surface there<g ref="char:EOLhyphen"/>of. The eighth day being paſt, the white Film grows daily rougher by degrees, and of a brown colour. The Pain in the Skin is more intenſe, till at laſt the Scales fall off, which in ſo cruel a Diſeaſe happens not till after the twentieth day. This in the mean time is worthy to be obſerv'd, that by how much nearer the ripening Pimples approach to a duskiſh colour, ſo much more dangerous are they, and diſappear more ſlowly; but the yellower they are, they run the leſs to<g ref="char:EOLhyphen"/>gether and vaniſh more quickly. After the Film is fallen off there appears no roughneſs in the Countenance, but it is immediately overſpread with mealy Scales of a very corroſive nature,
+<pb n="33" facs="tcp:102538:24"/> which leave Pits behind them, and oftentimes Scars. Sometimes the Skin of the Shoulders and Back comes off. The Dangerouſneſs of the Diſeaſe is to be eſtimated by the number and frequency of the Pimples in the Face alone. Theſe that are in the Hands and Feet are biggeſt, and the higher you aſcend from the extremities of the Limbs, the leſſer and narrower they grow. In adult Perſons, Salivation, and a Looſeneſs in Children (tho not ſo certainly) ac<g ref="char:EOLhyphen"/>companies the Running Kind. The Salivation ſometimes begins at the time of Eruption, ſome<g ref="char:EOLhyphen"/>times two or three days after, the ſick Perſon ſpitting at the firſt a thin matter, which on the eleventh day grows more viſcid, and is voided with great difficulty. He is thirſty, hoarſe, ex<g ref="char:EOLhyphen"/>tremely dull and ſleepy; the Cough ſometimes ſurprizes him as he drinks, and the Liquor re<g ref="char:EOLhyphen"/>turns through his Noſtrils. Then the Salivation uſually ceaſeth, and unleſs the Swelling of the Face and Hands now notably beginning, and conſiderably laſting, ſupplies its room, the ſick perſon forthwith dies: for though, according to the Genius of the Diſeaſe, the Swelling of the Face ſhould abate ſomewhat on that very day, yet ought it not entirely to diſappear till a day or two after. The Diarrhaea ſurprizes not Children, ſo early as the Salivation doth Men. In both theſe Kinds of Small Pox, the Fever reigneth from the beginning to the time of the Eruption, from which to the time of the Maturation of the Pimples it abates, and that being finiſh'd, vaniſhes. The Bad Regimen, or Government of the ſick Perſon, occaſions di<g ref="char:EOLhyphen"/>vers irregular Symptoms; ſuch as the Flacci<g ref="char:EOLhyphen"/>dity
+<pb n="34" facs="tcp:102538:25"/> and falling down of the Pocks, Phrenſy, Coma or perpetual Sleepineſs, Purple Spots ſcatter'd between the Pimples, and little black Spots on the Tops of them ſubſiding in the middle, piſſing and ſpitting of Blood about the beginning of the Diſeaſe, ſuppreſſion of Urine.</p>
+            <p>The Separation and Febrile Ebullition are tranſacted in the firſt three or four days. The Expulſion is perfected in the following days by means of little Abſceſſes ariſing in the skin.</p>
+            <p>Let a Vein be open'd in any of the three firſt days, and nine or ten ounces of Blood taken a<g ref="char:EOLhyphen"/>way; and afterwards exhibit a Vomit of an ounce, or an ounce and a half of the infuſion of <hi>Crocus Metallorum.</hi>
+            </p>
+            <p>During the firſt days let the Blood be diluted by frequent draughts of Small Beer hopp'd.</p>
+            <p>Aſſoon as all the Pocks are come forth (which is uſually the ſixth day of the Diſeaſe) let an ounce of Syrup of Meconium be given at night, which muſt afterwards be repeated every night to the tenth day after the invaſion. Let the Doſe be augmented that night (if the Pocks be of the running kind) to an ounce and an half, and one ounce in the morning, and continued in like manner till the Patient be recovered from his Sickneſs.</p>
+            <p>If the Syrup of <hi>Meconium</hi> do not agree with him, you may ſubſtitute Liquid <hi>Laudanum</hi> in its place, <hi>viz.</hi> eighteen Drops for an ounce of the Syrup, and five and twenty Drops for an ounce and an half. In the mean while it is to be ob<g ref="char:EOLhyphen"/>ſerved, that, if the Quieting Medicine given twice a day be not ſufficient to allay the Com<g ref="char:EOLhyphen"/>motion (as it oftentimes happens about the end
+<pb n="35" facs="tcp:102538:25"/> of the Diſeaſe, when the Pocks run notably to<g ref="char:EOLhyphen"/>gether) in that caſe it ought to be repeated eve<g ref="char:EOLhyphen"/>ry eight hours, or oftner, if need require.</p>
+            <p>But when the Pocks are diſtinct, it will ſuf<g ref="char:EOLhyphen"/>fice to exhibit a Compoſing Draught once every night after the full Eruption, and alſo in a ſmaller Doſe.</p>
+            <p>But of whatſoever kind the Pocks are, and in whatſoever time of the Diſeaſe a Phrenſy ſu<g ref="char:EOLhyphen"/>pervenes, it is altogether neceſſary to curb the diſorderly motion of the Spirits, and therefore if the former Quieting Doſe prove ineffectual, it muſt be repeated again and again, till the tu<g ref="char:EOLhyphen"/>mult be wholly aſſwag'd; interpoſing always a convenient ſpace between the Doſes, that we may be able to diſcern, whether the laſt Doſe hath already perform'd as much as we deſire, before we proceed to exhibit another.</p>
+            <p>If the Urine be totally ſuppreſt, let the ſick Perſon be taken out of his Bed, and made to walk a little.</p>
+            <p>If the Spittle by reaſon of the Heat be ſo tough, that it cannot be expectorated, let a Gar<g ref="char:EOLhyphen"/>gariſm be frequently injected into the Throat with a Syringe. It may be made of Small Beer or Barley Water with Honey of Roſes: Or thus.</p>
+            <p>Take of the Bark of the Elm-tree ſix drams, Liquoriſh Roots half an ounce, twenty ſton'd Raiſins, Red Roſes two Pugils; boil them in a ſufficient quantity of Water to a Pint and an half; in which being ſtrained out, diſſolve Oxy<g ref="char:EOLhyphen"/>mel ſimple, and Honey of Roſes, of each two ounces. Mix them for a Gargariſm.</p>
+            <p>If upon the eleventh, or any other ſucceeding
+<pb n="36" facs="tcp:102538:26"/> day, the Secondary Fever, with Unquietneſs, Toſſing of the Body, and ſuch like other Symp<g ref="char:EOLhyphen"/>toms, be ſo fierce and high, that all the Pacific Medicines (how often ſoever repeated) are not able to put a ſtop to its Fury, and Death ſeems to be at hand, let a Vein be immediately open'd, and Blood copiouſly extracted, <hi>viz.</hi> to about twelve ounces, and the ſame once or twice re<g ref="char:EOLhyphen"/>peated in the following days, if the conſidera<g ref="char:EOLhyphen"/>tion of the forementioned Symptoms require it, but not otherwiſe. And in this caſe, after the Letting of Blood, the Patient may be gently purg'd on the thirteenth, or any other ſucceeding day, and not before; as for example, let him take an ounce of the Lenitive Electuary, diſſol<g ref="char:EOLhyphen"/>ved in four ounces of Cichory or Milk Water. But neither the Letting of Blood nor Purging doth forbid the uſe of Compoſing Medicines, which (theſe notwithſtanding) ought to be ex<g ref="char:EOLhyphen"/>hibited both largely and frequently, if need be: For after all we muſt conſtantly have recourſe to them in this Diſeaſe.</p>
+            <p>When the Pocks are perfectly dried up, let the Face be anointed with a Liniment made of equal parts of Oil of Sweet Almonds and Po<g ref="char:EOLhyphen"/>mate, two days, and no longer.</p>
+            <p>On the twenty firſt day of the Diſeaſe let a Vein in the Arm be open'd, and the day after let a Purging Medicine be exhibited, and thrice repeated every ſecond day.</p>
+            <p>As for the Government of the ſick Perſon, let him abſtain from his Bed till the ſixth day after the firſt Invaſion of the Diſeaſe; and after<g ref="char:EOLhyphen"/>wards keep his Bed till the ſeventeenth day, being cover'd only as he was wont to be, when in health.</p>
+            <pb n="37" facs="tcp:102538:26"/>
+            <p>Let him feed upon Oat-meal and Barley Broths, boil'd Apples, and Small Beer, and af<g ref="char:EOLhyphen"/>ter the eleventh day, let him drink if he pleaſes, foor or five ſpoonfuls of <hi>Spaniſh</hi> Wine, twice every day.</p>
+            <p>If the Swelling in the Legs yield not to the Evacuations above preſcrib'd, it may be eaſily driven away with Fomentations of Mallows, Baſe Mullein, Elder, and Laurel Leaves, with Flowers of Chamomil, and Melilote, boiled in Milk.</p>
+            <p>If during the firſt days of the Diſeaſe the Pa<g ref="char:EOLhyphen"/>tient ſpit or piſs blood, let the Powder and Tincture, preſcribed in the Chapter of Spitting Blood, be carefully exhibited every ſixth hour, till theſe Symptoms entirely diſappear. In which caſe alſo large Doſes of Compoſing Me<g ref="char:EOLhyphen"/>dicines muſt be given.</p>
+         </div>
+         <div type="part">
+            <head>Of Saint <hi>Vitus</hi>'s Dance.</head>
+            <p>'Tis a ſort of Convulſion, that infeſts Children from ten years old to the Age of Puberty. It is known by their Limping, or by the inſtability of one of their Legs, which they draw after them, after the manner of Fools. If the Hand of the ſame ſide be laid upon the Breaſt, or any other part of the Body, they cannot keep it a moment in the ſame poſture, but it will be diſtorted by the Convulſion into another ſitua<g ref="char:EOLhyphen"/>tion and place, whatſoever efforts they make to the contrary. Before one of theſe can put a Cup to his Mouth, he uſeth a thouſand ridiculous Geſtures, and Jugler-like Tricks: For he doth not bring it to his mouth in a ſtraight line, but,
+<pb n="38" facs="tcp:102538:27"/> his Hand being ſtrangely drawn aſide by the Convulſion, he toſſes it a good while hither and thither, till at laſt as it happens to come near to his Lips, he ſuddenly throws the Liquor into his mouth, and greedily ſwallows it down, as if he intended to make Sport to the Spectators.</p>
+            <p>Let eight ounces of Blood be taken away, more or leſs, according to the Age of the Patient, by opening a Vein in the Arm.</p>
+            <p>The day following let him take one half of the Common Purging Potion, or ſomewhat more, with reſpect to his Age, and at night the following draught.</p>
+            <p>Take Black Cherry water one ounce, <hi>Langius</hi> his Epileptic water three drams, Treacle of <hi>Andromachus</hi> one ſcruple, liquid <hi>Laudanum</hi> eight drops for a draught.</p>
+            <p>Let the purging Potion, with the pacific draught at night, be thrice repeated every ſe<g ref="char:EOLhyphen"/>cond day.</p>
+            <p>Afterwards let more Blood be taken away, and the purging Potion repeated as before, re<g ref="char:EOLhyphen"/>iterating in this wiſe the letting of Blood and Purgation, to a third or fourth time, and al<g ref="char:EOLhyphen"/>lowing always a convenient reſpite between the Evacuations, that the Patient be not expos'd to any danger.</p>
+            <p>In the days that are free from Purgation, pre<g ref="char:EOLhyphen"/>ſcribe as follows:</p>
+            <p>Take Conſerve of <hi>Roman</hi> Wormwood, and of the yellow part of an Orenge, of each one ounce; Conſerve of Roſemary flowers, half an ounce; old Treacle of <hi>Andromachus,</hi> and pre<g ref="char:EOLhyphen"/>ſerv'd Nutmeg, of each three drams; preſerv'd Ginger one dram; with as much as ſufficeth
+<pb n="39" facs="tcp:102538:27"/> of ſyrup of the juice of Citron make an Ele<g ref="char:EOLhyphen"/>ctuary. Doſe as much as a Nutmeg in the morning, and at five a clock in the afternoon, drinking after every Doſe five ſpoonfuls of the following Wine.</p>
+            <p>Take of the Roots of Peony, Elicampane, Maſterwort and Angelica, of each one ounce; Leafs of Rue, Sage, Betony, Germainder, white Horehound, and the tops of leſſer Cen<g ref="char:EOLhyphen"/>tory, of each a handful; Juniper Berries ſix drams; the Pills of two Orenges. Let all be ſlic'd and infus'd cold in three quarts of Canary Wine. When you uſe it, ſtrain out ſo much as you intend to drink.</p>
+            <p>Take of Rue water four ounces; <hi>Laugius</hi> his Epileptic water, and compound Bryony water, of each one ounce; Syrup of Peony ſix drams; mix and make a Julep. Doſe four ſpoonfuls every night at the time of going to Bed, with eight drops of the ſpirit of Hartſhorn.</p>
+            <p>Let a Plaiſter of <hi>Caranna</hi> be apply'd to the ſoles of the Feet.</p>
+            <p>The next year, about the ſame time of the year that the Diſeaſe firſt appear'd, let a Vein be again open'd, and a purging Medicine exhibited ſome days, for prevention of a Relapſe.</p>
+            <p>It ſeemeth probable to me, that the Falling Sickneſs in adult perſons might be cur'd by this method, which nevertheleſs I have not yet ex<g ref="char:EOLhyphen"/>perienc'd. But ſince it is accommodated to the tender Ages of thoſe that are wont to be infeſt<g ref="char:EOLhyphen"/>ed by Saint <hi>Vitus</hi> his Dance, if it be apply'd to the Cure of Epilepſies in perſons grown up, both the quantity of the Blood that is to be ta<g ref="char:EOLhyphen"/>ken
+<pb n="40" facs="tcp:102538:28"/> away, and the Doſes of the purging Medi<g ref="char:EOLhyphen"/>cines ought to be augmented.</p>
+         </div>
+         <div type="part">
+            <head>Of the Apoplexy.</head>
+            <p>It conſiſts in a moſt profound Sleep, and total privation of Senſe and Motion, excepting only Reſpiration, which is ſtill perform'd, but with difficulty and ſnoring.</p>
+            <p>Let a Vein be inſtantly opened in the Arm, and twelve ounces of Blood taken away, and afterwards eight ounces more out of the Jugu<g ref="char:EOLhyphen"/>lars. Immediately after exhibit a Vomit or an ounce and an half, or two ounces, of the infu<g ref="char:EOLhyphen"/>ſion of <hi>Crocus Metallorum.</hi>
+            </p>
+            <p>Let a large and ſharp bliſtering Plaſter be applied to the hinder part of the Neck.</p>
+            <p>While theſe things are doing, let the ſick per<g ref="char:EOLhyphen"/>ſon ſit upright in his Bed, not oppreſſed with too great a burthen of Cloaths.</p>
+            <p>Let Spirit of <hi>Sal Armoniac,</hi> excellently recti<g ref="char:EOLhyphen"/>fied, be held to his Noſe.</p>
+            <p>After the operation of the Vomit is finiſhed, let three or four ſpoonfuls of the following Julep be from time to time exhibited.</p>
+            <p>Take Rue water four ounces; compound Bryony water, and <hi>Langius</hi> his Anti-epileptic wa<g ref="char:EOLhyphen"/>ter, of each one ounce; Spirit of Hartſhorn twenty drops; Sugar-candy, as much as ſufficeth: make a Julep.</p>
+            <p>Or a ſpoonful of compound Spirit of Laven<g ref="char:EOLhyphen"/>der, may be given twice or thrice by it ſelf, du<g ref="char:EOLhyphen"/>ring the Fit, interpoſing the ſpace of an hour, or half an hour, betwixt the Doſes.</p>
+            <pb n="41" facs="tcp:102538:28"/>
+            <p>Obſerve heedfully, that Cordials ought not to be exhibited too frequently, and ſuch as are too hot not at all, as it is the cuſtom to do: For, after all, whatever ſpecific vertue they may ſeem to be endued withal, they do more miſchief than good, by melting the humors, and conſe<g ref="char:EOLhyphen"/>quently augmenting the Diſeaſe. which incon<g ref="char:EOLhyphen"/>venience alſo is no leſs occaſion'd, by too great a burthen of Cloaths.</p>
+            <p>After the Paroxyſm is over, to prevent a Re<g ref="char:EOLhyphen"/>lapſe, let theſe things be preſcribed.</p>
+            <p>Take of the pill <hi>Cochiae</hi> the greater, two ſcruples for a Doſe, to be repeated ſix times every third day, at Four of the clock in the morn<g ref="char:EOLhyphen"/>ing, ſleeping after them.</p>
+            <p>Take Conſerve of Sage Flowers, and of Roſe<g ref="char:EOLhyphen"/>mary Flowers, of each one ounce; Conſerve of the yellow part of an Orenge ſix drams; pre, ſerved Nutmeg, and preſerved Ginger of each half an ounce; old Treacle of <hi>Andromachus</hi> two drams; the powders of the Electuaries <hi>Diambrae,</hi> and <hi>Diamoſchu Dulcis,</hi> of each one dram; with a ſufficient quantity of the ſyrup of Citron pickle make an Electuary. Doſe as much as a Cheſ<g ref="char:EOLhyphen"/>nut, every morning and evening, drinking after it two ſpoonfuls of <hi>Langius</hi> his Epileptic water.</p>
+            <p>Take of Ambergris half a dram; the diſtill'd Oils of Aniſe-ſeed, Cinnamon and Nutmeg, of each two drops; Oil of Cloves one drop. Su<g ref="char:EOLhyphen"/>gar diſſolv'd in Orenge-flower water as much as ſufficeth to make Tablets according to Art; Let the Patient eat one at his pleaſure.</p>
+            <p>Let him abſtain from all manner of ſtrong Drink, and eat Broths made of Barley, Oats,
+<pb n="42" facs="tcp:102538:29"/> or of Chickens; and ſometimes even the fleſh of Chickens and Lambs, and ſuch like Meats of eaſie digeſtion, eſpecially while purging Medi<g ref="char:EOLhyphen"/>cines are exhibited.</p>
+         </div>
+         <div type="part">
+            <head>Of the Inflamation of the Eyes.</head>
+            <p>It is manifeſt of it ſelf, Let ten ounces of Blood be taken out of a Vein in the Arm, and the common purging Potion exhibited the next day, and repeated two days after, and once more reiterated after a like interval of time. The ſame Nights let the Patient take a quieting draught of an ounce of the Syrup of <hi>Me<g ref="char:EOLhyphen"/>conium.</hi>
+            </p>
+            <p>Alſo let him drink four ounces of an emul<g ref="char:EOLhyphen"/>ſion of the greater cold Seeds and white poppy Seed three or four times every day that is free from purgation.</p>
+            <p>Take of Plantain water, Red-Roſe water, and Frogs ſperm water, of each one ounce; Powder of prepar'd Tutty one dram. Make a mixture. Pour a few drops of it into the Eye twice every day, beginning after the firſt purga<g ref="char:EOLhyphen"/>tion.</p>
+            <p>If the Diſeaſe do not yield to theſe Reme<g ref="char:EOLhyphen"/>dies, the Letting of Blood (eſpecially if it ap<g ref="char:EOLhyphen"/>pear pleuritic) and Purging muſt be repeated yet twice more.</p>
+            <p>Let the Patient abſtain from the uſe of Wine, and all ſorts of ſtrong Liquors; from Meats alſo that are ſalt and hard of digeſtion; and drink milk and water boil'd, all the days that are free from purgation.</p>
+            <pb n="43" facs="tcp:102538:29"/>
+            <p>Note, that it often happens, that the ſetting of Blood and purging, how often ſoever re<g ref="char:EOLhyphen"/>peated, are ſtill found to be ineffectual. In this caſe a compoſing draught of an ounce of Syrup of <hi>Meconium</hi> exhibited every night, perfects the Cure, without the help of any other Re<g ref="char:EOLhyphen"/>medy.</p>
+         </div>
+         <div type="part">
+            <head>Of the Falling down of the Womb.</head>
+            <p>Take of the Bark of an Oak two ounces; boil it in four quarts of Spring water till one half be conſum'd; adding (towards the end) the Rind of a Pomgranate beaten, one ounce; Red Roſes and Pomgranate Flowers, of each two handfuls; then add half a pint of Red Wine. Let the part affected be fomented with woollen Cloth dipt in the Liquor that is ſtrain'd out, two hours before the Patient riſe every morning and at night when ſhe is in her Bed, till the Symptom diſappear.</p>
+         </div>
+         <div type="part">
+            <head>Of the Paroxyſms of the Stone in the Kidneys.</head>
+            <p>The Signs are theſe: A fix'd pain in the Re<g ref="char:EOLhyphen"/>gion of the Loins, bloody Urine, the voiding of Sand or Stones, the numneſs of the Leg on the ſide of the affected Kidney, the retraction of the Teſticle of the ſame ſide where the pain is felt, a queaſineſs of Stomach, and vomiting. There is a near reſemblance between this Diſ<g ref="char:EOLhyphen"/>eaſe and the Colick, but they differ in ſome Symptoms, an account of which you may read in the Chapter, <hi>Of the Bilious Colick.</hi>
+            </p>
+            <p>If the Patient be of a ſanguine Conſtitution,
+<pb n="44" facs="tcp:102538:30"/> let ten ounces of Blood be taken from the Arm anſwering to the affected Kidney; then let a Gallon of Poſſet, in which two ounces of the Roots of Marſhmallows have been boll'd, be haſtily ſwallow'd down, and the following Cly<g ref="char:EOLhyphen"/>ſter injected.</p>
+            <p>Take of the Roots of Marſhmallows and Lillies, of each one ounce; the Leafs of Mal<g ref="char:EOLhyphen"/>lows, Wall-Flower, Brank-Urſine, and Cha<g ref="char:EOLhyphen"/>momil Flowers, of each one handful; Linſeed, and Fenngreek-ſeed, of each half an ounce: Boil them in a convenient quantity of water to a Pint and an half. Make a Clyſter. After the rejection of the Vomit and Clyſter, let a large Doſe of Liquid <hi>Laudanum</hi> be exhibited, <hi>viz.</hi> to five and twenty drops, or 15 or 16 grains of <hi>Matthew</hi>'s Pills.</p>
+            <p>If the Patient be an old Man, or one that is much weaken'd by the long continuance of the Diſeaſe, or an old Woman ſubject to Vapours, (eſpecially if at the beginning of the Paroxyſm ſhe void black and gravelly Urine) then omit the letting of Blood, but in all other things proceed according to the method above de<g ref="char:EOLhyphen"/>ſcrib'd.</p>
+         </div>
+         <div type="part">
+            <head>Of the Dyſentery, Diarrhaea and Teneſmus.</head>
+            <p>There is firſt a chilneſs and ſhivering, then an univerſal Heat all over the Body, which is ſhortly follow'd by Gripings of the Guts, and theſe by a frequent voiding of ſlimy matter (on<g ref="char:EOLhyphen"/>ly ſometimes ſome Stools of natural Excrements are interlac'd) with tormenting pain, and as it were a deſcending of all the Entrals, with which
+<pb n="45" facs="tcp:102538:30"/> the ſick perſon is miſerably afflicted as often as he goeth to Stool. In the mean while the mat<g ref="char:EOLhyphen"/>ter that is evacuated, is intermixt with ſtreaks of Blood; though ſometimes not the leaſt mixture of Blood doth appear during the whole courſe of the Diſeaſe. In an advanc'd Dyſentery ſome<g ref="char:EOLhyphen"/>times pure Blood is voided, and the Entrals affected with an incurable Gangrene. When the ſick Perſon is in the prime of his age, or heated by the uſe of Cordials, he is taken with a high Fever, his Tongue is ſomewhat white, cover'd all over with a certain thick ſlime, ſometimes black and dry. The ſtrength of the Body is overthrown, the Spirits are diſſipated, and the inward parts of the Mouth and Throat ulcera<g ref="char:EOLhyphen"/>ted, more eſpecially when the evacuation of the peccant matter is unſeaſonably ſtopt by aſtringent Medicines, before that which nou<g ref="char:EOLhyphen"/>riſheth the Diſeaſe is expell'd by purgation. Sometimes the Dyſentery comes without a Fe<g ref="char:EOLhyphen"/>ver, and the Gripings of the Guts leading the Dance, the reſt of the Symptoms follow.</p>
+            <p>In a <hi>Diarrhaea,</hi> Excrementitious Humours are voided without Blood, or the ulceration of the Entrals.</p>
+            <p>In a <hi>Teneſmus,</hi> there is a perpetual deſire to go to Stool, yet nothing is evacuated but a little bloody or purulent Slime.</p>
+            <p>Let a Vein be opened in the Arm as ſoon as may be, the ſame night a compoſing draught exhibited, and the next morning the common purging Potion, which muſt be repeated to two other Doſes every ſecond day, as alſo the pa<g ref="char:EOLhyphen"/>cific draught after the operation of the purging
+<pb n="46" facs="tcp:102538:31"/> Medicine is over; but in the intermediate days let it be given morning and evening.</p>
+            <p>After the Patient hath been let Blood, and once purged, through the whole courſe of the Diſeaſe, let the following Cordial be exhibi<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Take of Black-cherry Water, Strawberry Water, of each three ounces; Plague Water, Compound <hi>Scordium</hi> Water, and Barley Cin<g ref="char:EOLhyphen"/>namon Water, of each one ounce; prepared Pearl, one dram and an half; Sugar-candy, as much as ſhall ſuffice; add half an ounce of Da<g ref="char:EOLhyphen"/>mask Roſe Water, to give the Julep a grateful reliſh. Let the Patient drink four or five ſpoon<g ref="char:EOLhyphen"/>fuls of it, in caſe of fainting, or at his plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>Let his ordinary Drink be Milk boiled with a treble quantity of Water, or the white De<g ref="char:EOLhyphen"/>coction, thus:</p>
+            <p>Take of Harts-horn burnt, and Crums of a white Loaf, of each two ounces; make a De<g ref="char:EOLhyphen"/>coction in three Pints of Spring Water to two, and ſweeten it with a ſufficient quantity of the beſt white Sugar. Or if the Feebleneſs of the Patient require it, boil two Pints of Spring Water with half a Pint of Canary Wine for his ordinary Drink, to be taken cold.</p>
+            <p>After he hath been thrice purged, the whole Cure-depends upon the uſe of <hi>Laudanum,</hi> repeat<g ref="char:EOLhyphen"/>ed twice or thrice every day, only let a Clyſter of half a Pint of Cows Milk, and an ounce and an half of Treacle of <hi>Andromachus</hi> be now and then injected, which is of excellent uſe in fre<g ref="char:EOLhyphen"/>quent Evacuations.</p>
+            <pb n="47" facs="tcp:102538:31"/>
+            <p>When the Flux of the Belly riſeth no higher than a <hi>Diarrhaea,</hi> omit the letting of Blood and Purging, and preſcribe the following Bolus to be taken every morning.</p>
+            <p>Take of Rheubarb in Powder, half a dram, (more or leſs, according to the Patient's ſtrength) with a ſufficient quantity of <hi>Diaſcor<g ref="char:EOLhyphen"/>dium</hi> make a Bolus, to which add two drops of Chymical Oil of Cinnamon.</p>
+            <p>Let a compoſing draught of an ounce of Bar<g ref="char:EOLhyphen"/>ley Cinnamon Water, and 14 drops of liquid <hi>Laudanum</hi> be exhibited every night.</p>
+            <p>If the ſick Perſon be tormented with dry Gripings, voiding nothing, they are cured by waſhing with Whey, (being drunk cold, and injected warm) as in the Diſeaſe called the <hi>Cholera,</hi> with Chicken Broth or Poſſet.</p>
+            <p>If this Diſeaſe laſt long, ſo that all the force thereof fall upon the ſtrait Gut, with a per<g ref="char:EOLhyphen"/>petual deſire to go to Stool, let a reſtorative Diet be preſcribed, and ſome cordial Liquor to be drunk at pleaſure, that the Patient's ſtrength may be re eſtabliſhed, which returning, the <hi>Te<g ref="char:EOLhyphen"/>neſmus</hi> inſtantly vaniſheth.</p>
+            <p>Sometimes it falls out, that after a Dyſentery hath been ill cured, the ſick Perſon is for ſome years troubled with tormenting Pains; but by the repeated letting of Blood, he may be reſto<g ref="char:EOLhyphen"/>red to his former health.</p>
+            <p>Note, that in ſuch Conſtitutions of the Air as are leſs favourable to this Diſtemper, omit<g ref="char:EOLhyphen"/>ting all Evacuations, it is cured by the alone uſe of <hi>Laudanum,</hi> repeated every morning and even<g ref="char:EOLhyphen"/>ing, till the Symptoms wholly diſappear; or, if need be, thrice in 24 hours.</p>
+         </div>
+         <div type="part">
+            <pb n="48" facs="tcp:102538:32"/>
+            <head>Of the Bilious Colick.</head>
+            <p>It is a moſt fierce Pain in the Guts, which be<g ref="char:EOLhyphen"/>gins with a Fever that laſts a few hours. Either it wrings them, as if they were girt with a Swa<g ref="char:EOLhyphen"/>thing-Band; or being contracted into a Point, bores them as it were with an Awger. Some<g ref="char:EOLhyphen"/>times it grants a Truce, but preſently returns to the Aſſault. At the beginning it is not ſo cer<g ref="char:EOLhyphen"/>tainly fixed in any one Point, there is not ſo fre<g ref="char:EOLhyphen"/>quent a deſire to vomit, nor doth the Belly ſo ſtubbornly reſiſt the force of purging Medi<g ref="char:EOLhyphen"/>cines; but by degrees, as the Pain is augmented, it is alſo more obſtinately fixed in a Point, the deſire to vomit grows more troubleſom and fre<g ref="char:EOLhyphen"/>quent, and the Belly more coſtive, till at laſt the Colic degenerates into the Iliac Paſſion.</p>
+            <p>It is thus diſtinguiſhed from the Stone in the Kidneys. 1. The Pain of the Stone is fixed in one of the Reins, and from thence is ſtretched out to the Teſticle, according to the length of the Ureter. But the Pains of the Colic are more unconſtant and moveable, compaſſing about the middle of the Belly as with a Girdle. 2. The Colical Pains are increaſed after eating; but the Nephritical, or Pains of the Stone, are rather mitigated. 3. In the Colic, the voiding of Excrements gives greater eaſe than in the Stone. 4. The Urine of thoſe that are troubled with the Stone, is at the beginning of the Pa<g ref="char:EOLhyphen"/>roxyſm clear and thin, afterwards there appears ſome Sediment, and at laſt Sand or little Stones are voided: whereas in the Colic, the Urine is thick from the beginning.</p>
+            <pb n="49" facs="tcp:102538:32"/>
+            <p>Let a conſiderable quantity of Blood be ta<g ref="char:EOLhyphen"/>ken out of one of the Arms, and three or four hours after an Anodyne exhibited: the next day give a lenitive Purge, to be repeated every other day to two Doſes more.</p>
+            <p>But if the Diſeaſe was occaſioned by gour<g ref="char:EOLhyphen"/>mandizing, or by ſoon periſhing Fruits, then firſt of all the Stomach ought to be waſhed with great and frequent draughts of Poſſet, and after that is done an Anodyne given; the next day order a Vein to be opened, and afterwards proceed in the method above preſcribed.</p>
+            <p>When this Diſeaſe, having been unskilfully handled, hath continued very long, and the ſick perſons have been reduced to extreme Feeble<g ref="char:EOLhyphen"/>neſs by it, the liberal drinking of either Plague Water, <hi>Aqua Mirabilis,</hi> or any other with which they were wont to be moſt delighted while they were in health, hath helped them beyond all ex<g ref="char:EOLhyphen"/>pectation.</p>
+         </div>
+         <div type="part">
+            <head>Of the Diſeaſe called <hi>Cholera.</hi>
+            </head>
+            <p>It contains it ſelf within the Bounds of the Month of <hi>Auguſt,</hi> and ſcarcely maketh any Ex<g ref="char:EOLhyphen"/>curſions into the firſt Weeks of <hi>September.</hi> There is a Diſeaſe like unto it, occaſioned by Surfeit<g ref="char:EOLhyphen"/>ing and Gluttony; which tho it be cured after the ſame manner, is yet of another Form. The Signs are enormous Vomiting, and the voiding of corrupt Humours by Stool; with great Trouble and Difficulty; Vehement Pain, Swel<g ref="char:EOLhyphen"/>ling up and Diſtenſion of the Belly and Entrals; Gnawing at the Heart or Stomach, Thirſt; the Pulſe quick, frequent, ſmall and unequal; Heat
+<pb n="50" facs="tcp:102538:33"/> and Anxiety; a moſt troubleſom Nauſeouſneſs or Loathing, Sweating, Contractions of the Legs and Arms, Swooning, Coldneſs of the Ex<g ref="char:EOLhyphen"/>treme Parts, and ſuch like Symptoms, which kill the ſick perſon in the ſpace of 24 hours.</p>
+            <p>Let a tender Chicken be boiled in about three Gallons of Spring Water, that there be ſcarce any taſte of Fleſh perceivable in the Liquor, and let the ſick perſon ſwallow down ſeveral large Cups of this Decoction lukewarm, or (for want of it) of Poſſet, whilſt in the mean time Clyſters of the ſame Liquor are ſucceſſively in<g ref="char:EOLhyphen"/>jected. And an ounce of the Syrups of Let<g ref="char:EOLhyphen"/>tuce, Violets, Purſlain, and Water-Lillies, or any of them, may be now and then mixed both with the Draughts and Clyſters.</p>
+            <p>The Buſineſs of Waſhing being finiſhed, which requires the ſpace of three or four hours, a compoſing Medicine puts an end to the Cure.</p>
+            <p>When the Phyſitian is not called till after the Patient is utterly ſpent and enfeebled by the Evacuations, and the extreme parts are already cold, recourſe muſt immediately be had to li<g ref="char:EOLhyphen"/>quid <hi>Laudanum,</hi> and that in a large Doſe, (<hi>viz.</hi> 25 drops of it in an ounce of Cinnamon Wa<g ref="char:EOLhyphen"/>ter) which even after the ceaſing of the Sym<g ref="char:EOLhyphen"/>ptoms ought ſtill to be repeated, but in a leſſer Doſe, till the ſick Perſon be reſtored to his for<g ref="char:EOLhyphen"/>mer health.</p>
+            <p>There is a ſort of <hi>Cholera,</hi> that uſually trou<g ref="char:EOLhyphen"/>bleth Children, and is often fatal to them, which is occaſioned by their Breeding of Teeth, or Surfeiting.</p>
+            <p>Their tender Age will not bear the waſhing of their Stomach with large Draughts of Li<g ref="char:EOLhyphen"/>quors,
+<pb n="51" facs="tcp:102538:33"/> much leſs the raiſing of a greater tumult in the Humours by purging Medicines; and therefore the whole Cure is to be committed to the uſe of <hi>Laudanum.</hi> Let two, three, four, or more drops of it, according to the Age of the Child, be exhibited in a Spoonful of Small Beer, or ſome convenient Water, and repeated as the occaſion ſhall require.</p>
+         </div>
+         <div type="part">
+            <head>Of the Diſeaſe call'd <hi>Colica Pictonum,</hi> or the Colic of the People of <hi>Poictiers.</hi>
+            </head>
+            <p>'Tis a kind of Colic that uſually degenerates into a Palſy, and a total loſs of motion in the Hands and Feet; which under this name is mentioned by <hi>Riverius</hi> in his Chapter of the Palſy, and is very well known in the <hi>Carribee</hi> Iſlands, where multitudes of People are infeſted by it.</p>
+            <p>This moſt cruel Pain is cured with Balſam of <hi>Peru</hi> exhibited frequently and in great Doſes, thus, Pour 20, 30, or 40 drops of it into a Spoonful of the fineſt white Sugar, and give it twice or thrice in the day. But the Palſy yields not to this Remedy.</p>
+         </div>
+         <div type="part">
+            <head>Of the Iliac Paſſion.</head>
+            <p>The Periſtaltic Motion of the Guts is in<g ref="char:EOLhyphen"/>verted; purging Medicines and Clyſters do im<g ref="char:EOLhyphen"/>mediately become Vomits; the Excrements of the Belly are voided by the Mouth.</p>
+            <p>Let nine or ten ounces of Blood be taken out of the right Arm. After ſome hours, exhibit the following Powder.</p>
+            <pb n="52" facs="tcp:102538:34"/>
+            <p>Take of Roſin of Scammony, or (in de<g ref="char:EOLhyphen"/>fault of that) Roſin of Jalap twelve Grains; Torquets Calomel one Scruple; mix and make a Powder, to be taken in a Spoonful of Cows Milk, drinking after it one or two Spoonfuls of the ſame Milk; or if the Form of Pills be more acceptable to the Patient,</p>
+            <p>Take of the Pills <hi>de duobus</hi> half a dram; Calomel one ſcruple: with a ſufficient quantity of Balſam of <hi>Peru,</hi> make four Pills, to be taken in a Spoonful of Syrup of Violets.</p>
+            <p>After the Operation of the Purge is ended, let the Patient take the following Draught.</p>
+            <p>Take of ſtrong Cinnamon Water one ounce, liquid <hi>Laudanum</hi> 25 drops: mix them for a Draught, which muſt afterwards be repeated twice, thrice, or oftner every day, till the Vo<g ref="char:EOLhyphen"/>miting and Pain be aſſwaged: and even after they diſappear, for the Confirmation of the Cure, let the Patient continue the uſe of the ſame Compoſing Draught for ſome time, when he goes to Bed, but in a leſſer Doſe.</p>
+         </div>
+         <div type="part">
+            <head>Of the immoderate Flux of the Terms.</head>
+            <p>The Monthly Courſes of a Woman flowing naturally, may fill the Capacity of the Shell of a Gooſe-egg. The immoderate Flux of them is known by the Patient's ill-bearing or uneaſi<g ref="char:EOLhyphen"/>neſs under it, by the failing of her Strength, want of Appetite, ill Habit of Body, ghaſtly colour of Face, like that of a dead Carkaſs, and ſwel<g ref="char:EOLhyphen"/>ling of the Feet.</p>
+            <p>Let a Vein be opened in the patient's Arm,
+<pb n="53" facs="tcp:102538:34"/> and eight ounces of Blood taken away. The next morning let her take the common purging Potion, and repeat it every other day to two Doſes more, drinking at night after every Purgation a compoſing draught of Syrup of <hi>Meconium.</hi>
+            </p>
+            <p>In the intermediate Days let her take that which follows.</p>
+            <p>Take of Conſerve of dry Roſes two ounces; Troches of Lemnian Earth one dram and an half; Rind of Pomgranates, Red Coral prepa<g ref="char:EOLhyphen"/>red, Bole Armenick, of each two Scruples; Blood-ſtone and Dragons Blood, of each one Scruple: with a ſufficient quantity of Syrup of Quinces make an Electuary; of which let her take the quantity of a large Nutmeg in the morning, and at five a clock in the afternoon, drinking after it ſix Spoonfuls of the following Julep.</p>
+            <p>Take of the Water of Oak-buds and Plan<g ref="char:EOLhyphen"/>tane, of each three ounces; Barley, Cinnamon Water, and Syrup of dried Roſes, of each one ounce; Spirit of Vitriol as much as ſufficeth to give it a grateful ſharpneſs.</p>
+            <p>Take of the Leafs of Plantane and Nettles, of each a convenient quantity. Beat them to<g ref="char:EOLhyphen"/>gether, and preſs out the Juice, of which being clarified, let her take four or five Spoonfuls now and then at her pleaſure.</p>
+            <p>After the firſt Purgation, let the following Plaiſter be apply'd to the Region of the Loins.</p>
+            <p>Take of Vermilion plaiſter, and the plaiſter for a Rupture, of each an equal quantity.
+<pb n="54" facs="tcp:102538:35"/> Spread them on a piece of Leather, for a plaiſter to be applied to the Region of the Loins.</p>
+         </div>
+         <div type="part">
+            <head>Of the Hyſterical Colic.</head>
+            <p>It is a certain kind, or rather a very notable and uſual Symptom of the Hyſterical Diſeaſe, which is accompany'd with a moſt ſharp pain about the pit of the Breaſt, and vomiting of green Humours.</p>
+            <p>Firſt, that the glut of the corrupt Humours lodged in the Stomach may not obſtruct the effi<g ref="char:EOLhyphen"/>cacy of the quieting Medicine, let a large quan<g ref="char:EOLhyphen"/>tity of poſſet (as for example a Gallon and an half) be ſwallowed down, and caſt forth again by vomiting. After which, exhibit 25 drops of liquid <hi>Laudanum</hi> in an ounce of ſtrong Cinnamon Water, plague Water, or any other convenient Vehicle.</p>
+            <p>Concerning the uſe of the compoſing Medi<g ref="char:EOLhyphen"/>cine, it is to be obſerved, that they ought to be conſtantly repeated, till the Symptoms wholly diſappear, interpoſing a convenient ſpace be<g ref="char:EOLhyphen"/>tween the Doſes, that ſo we may be able to judge of the effect of one, before another be exhibi<g ref="char:EOLhyphen"/>ted.</p>
+            <p>If the patient be of a ſanguine Conſtitution, nor hath been formerly ſubject to this Sym<g ref="char:EOLhyphen"/>ptom, or weakned by it, then let a Vein be firſt opened, before the uſe of the preſcribed Vo<g ref="char:EOLhyphen"/>mit.</p>
+            <p>The Diſeaſe called, <hi>The Hyſterical Clavus,</hi> is al<g ref="char:EOLhyphen"/>ſo cured by the ſame method.</p>
+            <p>But if the Hyſterical Colic continue a great
+<pb n="55" facs="tcp:102538:35"/> while, and come by Fits, then let the following things be given in the Intervals between the paroxyſms.</p>
+            <p>Take a Dram of Zedoary reduced to fine powder, and make a Bolus with a ſufficient quantity of the Syrup of Citron pickle, to be taken every morning and evening for 30 days together, drinking the following Infuſion after it.</p>
+            <p>Take half an ounce of Zedoary cut into ſmall pieces, Infuſe it cold in four ounces of Canary Wine, and after it hath ſtood twelve hours, ſtrain it for your uſe. Or take Balſam of <hi>Peru,</hi> as it is preſcribed in the Chapter of the Colic of the people of <hi>Poictiers.</hi>
+            </p>
+            <p>What is here ſaid of the Hyſterical Colic, ought to be applied to the Hypochondriacal Colick. And this alſo is to be heedfully ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>The nature of both theſe Diſtempers ſeems in a peculiar manner to require, that we ſhould eſſay ſeveral Medicines, till that at laſt be found out to which the Diſeaſe naturally yields: tho for the moſt part Steel is in this caſe moſt effectual.</p>
+            <p>This kind of Colic, both in Hypochondriacal and Hyſterical perſons, doth often degenerate into the Jaundice, which by degrees vaniſheth of it ſelf: But if it continue long, let the follow<g ref="char:EOLhyphen"/>ing Apozem be exhibited.</p>
+            <p>Take of the Roots of Madder, (ſuch as Dy<g ref="char:EOLhyphen"/>ers uſe) Turmerick, of each one ounce; greater Celandine (the whole plant) Tops of leſſer Centory, of each one handful. Boil them in equal parts of Rheniſh Wine and Spring Water
+<pb n="56" facs="tcp:102538:36"/> to a Quart. In the ſtrained Liquor diſſolve two ounces of the Syrup of the five Roots. Make an Apozeme. Doſe half a pint warm every morning and evening, till the patient re<g ref="char:EOLhyphen"/>cover.</p>
+         </div>
+         <div type="part">
+            <head>Of the Jaundice when it doth not come after the Colick.</head>
+            <p>It is known by the following Signs: a yel<g ref="char:EOLhyphen"/>low colour of the whole Body, with which al<g ref="char:EOLhyphen"/>ſo all Objects appear ting'd to the ſick perſons, and it is chiefly conſpicuous in the White of the Eyes; an Itching, Lazineſs and Wearineſs; Bitterneſs of the Tongue, ſometimes cholerick Vomitings, Hiccoughs, White Excrements: the Urine is of a Saffron colour, and dyeth Cloths that are dipt therein of the ſame colour.</p>
+            <p>Exhibit the common purging potion; and then preſcribe the things that are here ſubjoin'd, during the uſe of which, let the purging potion be repeated every fourth day.</p>
+            <p>Take Conſerve of <hi>Roman</hi> Wormwood; Con<g ref="char:EOLhyphen"/>ſerve of the yellow part of an Orenge, of each one ounce; preſerved Angelica, preſerved Nut<g ref="char:EOLhyphen"/>meg, compound powder of Aron, and Steel pre<g ref="char:EOLhyphen"/>pared with Vinegar, of each half an ounce; ex<g ref="char:EOLhyphen"/>tract of leſſer Centory; extract of Gentian, and Cream of Tartar, of each two drams; Engliſh Saffron powdered half a dram; with a ſufficient quantity of the Syrup of the five Roots make an Electuary; of which let the patient take the bigneſs of a Nutmeg every morning, and at five in the afternoon, (or inſtead of the Electuary, you may give Chaly<g ref="char:EOLhyphen"/>beat, or Steel Pills) drinking after the morning
+<pb n="57" facs="tcp:102538:36"/> Doſe four pints of mineral purging Waters, and half a pint of the Apozeme preſcribed in the Chapter of the Hyſterical Colic after the Doſe that is taken in the afternoon.</p>
+            <p>But if any Signs of a Dropſy appear, let the patient uſe the Apozem both in the morning and evening.</p>
+            <p>But if the obſtinacy of the Diſeaſe will not be overcome by the long continued uſe of theſe Remedies, let the ſick perſon have recourſe to the Iron or Spaw Waters, which ought to be drunk at the Fountain head.</p>
+         </div>
+         <div type="part">
+            <head>Of the Preſervation from Abortion.</head>
+            <p>Uſe the ſame things that are preſcribed in the Chapter of the <hi>Immoderate Flux of the Courſes,</hi> omitting only Purgation and the Juices.</p>
+         </div>
+         <div type="part">
+            <head>Of the immoderate Flux of the Loches, or Child-bed Purgations.</head>
+            <p>There are three things required to conſtitute a natural flowing of the Loches. Firſt pure Blood flowing copiouſly for the firſt three days; then watery Blood, like Water wherein Fleſh hath been waſhed, continuing about four days after; and laſt of all tough and clammy matter coming forth during the five or ſix days next following, and ſo onward to the end of the month.</p>
+            <p>Now the immoderate Flux of the Loches is to be eſtimated from the decay of ſtrength; Swooning, the coming forth of clotted Blood; Loathing of Meat, Pain in the <hi>Hypochondria,</hi> or
+<pb n="58" facs="tcp:102538:37"/> under the Ribs, Diſtenſion of the Belly, a weak and frequent Pulſe, Dimneſs of Sight, Noiſe in the Ears, and Convulſions.</p>
+            <p>Let a thickning Diet be preſcribed, and the following Potion added.</p>
+            <p>Take of Plantane Water and Red Wine, of each one pint; boil them together, till a third part be conſumed, then ſweeten the liquor with a convenient quantity of fine white Sugar, and let the Patient drink half a pint of it cold twice or thrice a day.</p>
+            <p>In the mean time let ſome mild Hyſterical Julep be now and then exhibited, and the fol<g ref="char:EOLhyphen"/>lowing Bag applied to her Noſe.</p>
+            <p>Take of <hi>Galbanum</hi> and <hi>Aſa Faetida,</hi> of each two drams; <hi>Caſtoreum</hi> a dram and an half; Vo<g ref="char:EOLhyphen"/>latil Salt of Amber half a dram, mix them, and tie them in a Bag. Or</p>
+            <p>Take two drams of Spirit of Sal Armoniac, and put it frequently to her Noſe.</p>
+         </div>
+         <div type="part">
+            <head>Of Suppreſſion of the Loches.</head>
+            <p>The Signs are theſe: A Swelling of the Belly, a heavy Pain in the lower parts of the Belly, the Loins and Groin, redneſs of Face, difficulty of breathing, perturbation of the Eyes, Shiverings, acute Fevers, Swoonings, Cold Sweats, a Senſe of Beating and Burning heat in the Womb, a Palſy of the lower parts, and ſometimes an Epilepſy.</p>
+            <p>Let her be inſtantly confin'd to her Bed, and the Hyſterical Plaiſter apply'd to her Navel, then preſcribe this Electuary.</p>
+            <pb n="59" facs="tcp:102538:37"/>
+            <p>Take Conſerve of <hi>Roman</hi> Wormwood, and of Rue, of each one ounce; Troches of Myrrh two drams; <hi>Caſtoreum, Engliſh</hi> Saffron, Vola<g ref="char:EOLhyphen"/>til Salt of Amber, <hi>Sal Armoniac,</hi> and <hi>Aſa Foeti<g ref="char:EOLhyphen"/>da,</hi> of each half a dram; Syrup of the five Roots as much as ſufficeth to make an Electu<g ref="char:EOLhyphen"/>ary, of which let her take the quantity of a Nutmeg every four hours, drinking four or five ſpoonfuls of the following Julep after it.</p>
+            <p>Take of Rue water four ounces; compound Bryony water two ounces; Sugar-candy as much as is convenient: Make a Julep.</p>
+            <p>Or let her take a ſcruple of Troches of Myrrh every four hours.</p>
+            <p>If after the preſcrib'd quantity of theſe Reme<g ref="char:EOLhyphen"/>dies is conſumed, the Loches continue ſtill to be ſuppreſt, exhibit only one doſe of Laudanum, namely, 14 drops of <hi>Laudanum Liquidum</hi> in com<g ref="char:EOLhyphen"/>pound Bryony water, or one grain and an half of ſolid Laudanum made up into two Pills with half a ſcruple of <hi>Aſa foetida.</hi>
+            </p>
+            <p>If theſe ſuffice not, let a Clyſter of Sugar'd Milk be only once injected.</p>
+         </div>
+         <div type="part">
+            <head>Of the Dropſie.</head>
+            <p>This Diſeaſe is firſt known by the Pits or Impreſſion remaining in the lower parts of the Legs, after you have thruſt your Finger upon them, which appear conſpicuouſly at night, but vaniſh in the morning; eſpecially if this ſign be accompanied with a difficulty of Breathing; though women with Child, and ſuch as are troubled with a ſuppreſſion of their Courſes, and Men that are ſuddenly freed from an inveterate
+<pb n="60" facs="tcp:102538:38"/> 
+               <hi>Aſthma,</hi> are alſo not unfrequently moleſted with ſwellings of a like nature. The Feet and Legs being extremely ſwoln, the Waters ruſh into the <hi>Abdomen,</hi> and by degrees filling up its capacity, ſtretch it forth to the uttermoſt, till at laſt fal<g ref="char:EOLhyphen"/>ling upon ſome of the more noble Entrals, the ſick perſon is drowned. As the bulk of the parts affected increaſeth, the reſt do propor<g ref="char:EOLhyphen"/>tionably grow more and more ſlender. In the mean time there is a difficulty of Breathing, and little Urine is voided. This Diſeaſe doth commonly aſſault Men when they grow old, and Women when they leave off Child-bearing.</p>
+            <p>The principal Scopes of the Cure are, firſt the evacuations of the Waters, and then by the reſtauration and ſtrengthning of the Blood, to prevent the new increaſe of the Waters.</p>
+            <p>Take of White-wine, four ounces; Jalap in fine powder, one dram; powder of Ginger, half a Scruple; Syrup of Buckthorn, one ounce; mix them for a Potion, to be taken early in the morning, and repeated every day, or every ſecond day, according to the ſtrength of the Patient, till the Swelling be abated. Or</p>
+            <p>Take of Tamarinds half an ounce, Senna Leafs two drams, Rheubarb a dram and an half: Boil them in a convenient quantity of water to three ounces; diſſolve in the ſtraining, of Manna and looſning Syrup of Roſes, of each one ounce; Syrup of Buckthorn, half an ounce; the Electuary of the juice of Roſes, three drams: mix them for a Potion, to be taken as above. Or</p>
+            <p>Take of the Pills <hi>ex duobus,</hi> one Scruple; <hi>Elaterium,</hi> three grains; Chymical Oil of Cloves,
+<pb n="61" facs="tcp:102538:38"/> two drops. Make three Pills, to be taken early in the morning, and repeated as the occaſion ſhall require. Or</p>
+            <p>Take of Gambugia, fifteen grains; White-wine, and Cichory-water, of each one ounce and an half; Syrup of Buckthorn, half an ounce: mix them for a Potion, to be taken as above. Or</p>
+            <p>Take three handfuls of the inward Bark of the Elder; boil them in a quart of milk and water equally mixt, to a pint. Let the Patient take one half of the ſtrain'd liquor in the morn<g ref="char:EOLhyphen"/>ing, and the other in the evening, every day, till he be reſtored to his health. But this Remedy is of no efficacy, but only in thoſe Bodies that are very eaſily moved by purging Medi<g ref="char:EOLhyphen"/>cines.</p>
+            <p>Concerning the uſe of Purges in this Diſ<g ref="char:EOLhyphen"/>eaſe, three things are to be obſerved.</p>
+            <p>In the firſt place conſider whether the Body of your Patient, is wont to yield eaſily or diffi<g ref="char:EOLhyphen"/>cultly to purging Medicines. For one ounce of Syrup of Buckthorn being exhibited by it ſelf to ſuch as are eaſily wrought upon, will evacuate the Waters very copiouſly; whereas in others, the ſtrongeſt Purges above preſcribed, will hardly produce the deſired effect.</p>
+            <p>Secondly, Such Purges as are of ſlow opera<g ref="char:EOLhyphen"/>tion, do more miſchief than good, and therefore ſuch as work ſtrongly, and even too ſtrongly,
+<pb n="62" facs="tcp:102538:39"/> are always to be preferred before theſe that are too weak.</p>
+            <p>Thirdly, The Waters ought to be evacuated with as much haſte, as the ſtrength of the Pa<g ref="char:EOLhyphen"/>tient can poſſibly bear; leſt by interpoſing too long Intervals between the ſeveral purgations, we give occaſion to the Waters to gather a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>There are ſome Caſes in which all purging Medicines, of whatſoever kind they be, may and ought to be wholly omitted. For when the ſick perſon is of a weak conſtitution, or a Woman ſubject to Vapours, the Evacuation of the Wa<g ref="char:EOLhyphen"/>ters is to be attempted only by Diuretics, or Medicines that provoke Urine, among which the moſt efficacious are thoſe that are compoſed of lixivious Salts. For Example:</p>
+            <p>Take a pound of Brome-aſhes, infuſe them cold in four pints of Rheniſh Wine, ſtrain the liquor through a piece of brown paper, of which let the Patient drink three ounces in the morning, at five in the afternoon, and at night till the Humours be wholly evacuated. Which being performed, let ſuch Medicines as heat and ſtrengthen be exhibited, as for Example:</p>
+            <p>Take the Roots of Horſe-Radiſh, Leaf of Garden-Scurvy-graſs, common Wormwood and Sage, the Tops of leſſer Centory and Brome: infuſe them in ſtrong Ale for ordinary Drink, which alone doth ſometimes cure a be<g ref="char:EOLunhyphen"/>ginning Dropſie, without the help of purgin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="63" facs="tcp:102538:39"/> Medicines. Or preſcribe that which fol<g ref="char:EOLhyphen"/>lows:</p>
+            <p>Take of the Conſerve of Garden-Scurvy<g ref="char:EOLhyphen"/>graſs, and of <hi>Roman</hi> Wormwood, of each one ounce; extract of Gentian, of common Worm<g ref="char:EOLhyphen"/>wood, and of leſſer Centory, of each three drams: with a ſufficient quantity of the Syrup of Citron Pill, make an Electuary. Doſe as much as a large Nutmeg, in the morning, at five a clock in the afternoon, and at night, drink<g ref="char:EOLhyphen"/>ing four ounces of the following Infuſion af<g ref="char:EOLhyphen"/>ter it.</p>
+            <p>Take of <hi>Gentian</hi> Roots one ounce, Brome tops, and tops of leſſer Centory, and common Wormwood, of each one handful; Seeds of Fennel and Parſley, of each two drams: Chop them ſmall, and pour upon them four pints of Rheniſh Wine<g ref="char:punc">▪</g> let them ſtand together in a cold Infuſion, and ſtrain out the Liquor when you uſe it.</p>
+            <p>Note, That during the uſe of theſe corrobo<g ref="char:EOLhyphen"/>rating Medicines, you muſt in no wiſe purge the Patient.</p>
+            <p>Which ought alſo to be obſerved, when Lixi<g ref="char:EOLhyphen"/>vious Salts are exhibited, during the uſe of which it is alſo convenient to give corroborating or ſtrengthning Medicines.</p>
+            <p>Take of Horſe-Radiſh roots three ounces, Leaves of Garden Scurvy-graſs, common Wormwood, and Sage, Brome tops, and tops of leſſer Centory, of each three handfuls; three Orenges ſlic'd. Infuſe them in ſix Gallons of
+<pb n="64" facs="tcp:102538:40"/> Strong Ale not hopp'd, while it is fermenting. Make uſe of it for ordinary drink.</p>
+         </div>
+         <div type="part">
+            <head>Of the CLAP, or virulent RUNNING of the REINS.</head>
+            <p>It begins with an unuſual pain of the Genitals, and a rolling of the Teſticles. If the Head, or Nut of the Yard be ſtill covered with the Fore-skin, a ſpot like a Meaſle appears on the top of it, immediately after liquid matter, reſembling Sperm begins to drops out, which daily re<g ref="char:EOLhyphen"/>ceding from the colour and conſiſtence of Seed, at length grows yellow, and of a more dilute colour than the Yolk of an Egg. In the Vene<g ref="char:EOLhyphen"/>real Pox, that are riſen to a higher degree of virulency, the ſame is green, and mixt with a watry humour tinged with Blood. The fore<g ref="char:EOLhyphen"/>mentioned Wheal at length degenerates into an Ulcer, not unlike the Exulcerations in Chil<g ref="char:EOLhyphen"/>dren's Mouths, which daily eateth deeper and wider, the Orifice being beſet with a <hi>Callus.</hi> Thoſe that are circumciſed, or have the Nut of the Yard ſtript bare, are not troubled with an Ulcer therein, but only with the Gonorrhaea or Running of the Reins. Preſently a violent pain is felt in the Yard, as often as it is erected, eſpecially in the night, when the ſick perſon is hot in is Bed, as if it were wrung hard with ones hand. The Yard is bowed by the contraction of the part called the Bridle. To theſe Signs
+<pb n="65" facs="tcp:102538:40"/> may be added, Scalding of the Urine, which is ſcarce perceptible while the Urine is coming forth, but after it is voided, there is a ſenſe of burning through the whole <hi>Urethra,</hi> chiefly where it ends in the <hi>Glans</hi> or Nut of the Yard. Sometimes little Excreſcences of Fleſh hinder the paſſage of the Urine, and now and then there happens a pain and inflamation of the <hi>Scrotum</hi> or Cod.</p>
+            <p>Take of the Maſs of the Pills <hi>Cochiae</hi> the great<g ref="char:EOLhyphen"/>er three drams, Extract of <hi>Rudius</hi> one dram, Roſin of <hi>Jalap</hi> and <hi>Diagridium</hi> (or prepared Scammony) of each half a dram, <hi>Opobalſamum</hi> as much as ſufficeth. Make Pills, ſix out of every dram, of which let the Patient take four every morning, till the Scalding of the Urine, and the yellow colour of the Seed-like matter be much abated. Afterwards let him take them every other day for two weeks together; and at the laſt twice a week, till the humour wholly ceaſe to drop out.</p>
+            <p>If the ſick Perſon cannot eaſily be mov'd by evacuating Medicines, you may now and then interpoſe the common purging Potion between the Doſes of Pills, adding thereto of Syrup of Buckthorn, and the Electuary of the juice of Roſes, of each two drams; and if after all, the Cure do not ſucceed according to your deſire, you may exhibit Turbith Mineral, to eight grains for a Doſe twice or thrice, at the di<g ref="char:EOLhyphen"/>ſtance of four days; or inſtead of the Tur<g ref="char:EOLhyphen"/>bith,</p>
+            <pb n="66" facs="tcp:102538:41"/>
+            <p>Take of the Pills <hi>ex duobus,</hi> half a dram; <hi>Mercurius dulcis,</hi> one ſcruple: with a ſufficient quantity of <hi>Opobalſamum,</hi> make four Pills, to be taken early in the morning.</p>
+            <p>If the Patient utterly diſlike this method of Purging, after he hath taken the Pills that are firſt preſcribed, for three days together, let the following Clyſter be injected twice every day, namely, in the morning, and at five a clock in the afternoon; but once or twice in a week the Clyſter muſt be omitted, and a purging Medicine preſcribed.</p>
+            <p>Take of the Electuary of the juice of Roſes, ſix drams; <hi>Venice</hi> Turpentine diſſolv'd with the yolk of an Egg, half an ounce: diſſolve them in a pint of Barley water, and add to the ſtrain<g ref="char:EOLhyphen"/>ing two ounces of the Syrup of Violets; mix them for a Clyſter.</p>
+            <p>Every night let him take 25 drops of <hi>Opobal<g ref="char:EOLhyphen"/>ſamum,</hi> or Balſam of <hi>Mecha</hi> in a piece of Su<g ref="char:EOLhyphen"/>gar; in default of this, you may ſubſtitute Tur<g ref="char:EOLhyphen"/>pentine of <hi>Cyprus,</hi> to the quantity of a Filberd Nut.</p>
+            <p>Let him uſe Milk and Water for ordinary Drink, and Small Beer at Meals.</p>
+            <p>Or you may follow this method.</p>
+            <p>Take of the Pills <hi>ex duobus,</hi> half a dram; <hi>Opobalſamum,</hi> three drops: make three Pills,
+<pb n="67" facs="tcp:102538:41"/> which are to be taken at four in the morning, ſleeping after them, and repeated every ſecond or third day.</p>
+            <p>In the intermediate days, let the Clyſter be<g ref="char:EOLhyphen"/>fore deſcribed be injected in the morning, and at five in the afternoon.</p>
+            <p>What method ſoever you follow, the Patient muſt be let Blood once or twice about the middle of the Cure. Preſcribe alſo a cooling and thickning Diet, and Medicines that are en<g ref="char:EOLhyphen"/>du'd with the ſame Vertues, as Milk and Wa<g ref="char:EOLhyphen"/>ter, Emulſions of the cold Seeds, <hi>&amp;c.</hi>
+            </p>
+            <p>If the Yard be ſwoln,</p>
+            <p>Take of the Roots of Marſhmallows and Lillies, of each one ounce and an half; Leafs of Mallows, Petty Mullein, Elder, Henbane, Cha<g ref="char:EOLhyphen"/>momil Flowers, Melilote Flowers, of each one handful; Linſeed, and Fenngreek Seed, of each half an ounce: Boil them in Spring-water for a Fomentation, which muſt be apply'd to the part affected one whole hour twice or thrice a day.</p>
+            <p>After Fomentation, anoint the part affected with Linſeed Oil freſhly drawn, then ſpread a little of the Plaiſter of Mucilages upon Lambs Skin, and wrap about the ſwoln Lips of the Prepuce.</p>
+            <p>But if there be an Ulcer in the Lips of the Fore-skin, or in the <hi>Glans</hi> that lieth under them, preſcribe the following Liniment.</p>
+            <pb n="68" facs="tcp:102538:42"/>
+            <p>Take of the Ointment <hi>Baſilicon,</hi> ſix drams; Ointment of Tobacco, two drams; <hi>Praecipitate</hi> waſh'd in Roſe-water, and well laevigated, half a dram. Mix and make a Liniment. Let it be apply'd to the Sore upon ſcrapings of linnen Cloth, always after Fomentation.</p>
+            <p>If the <hi>Scrotum</hi> or God be ſwoln, let a Vein be immediately open'd in the Arm, and the pre<g ref="char:EOLhyphen"/>ſcrib'd Fomentation apply'd to the part affected twice every day, adding to each Fomentation a Spoonful or two of Spirit of <hi>French</hi> Wine, or inſtead of it, apply a Cataplaſm of Oxycrate and Bean Flower.</p>
+            <p>In the mean time the purging and cooling Medicines already deſcrib'd, muſt be given in<g ref="char:EOLhyphen"/>wardly.</p>
+         </div>
+         <div type="part">
+            <head>Of the FRENCH POX.</head>
+            <p>When by the long continuance of a <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>norrhaea,</hi> or the undue uſe of aſtringent or binding Medicines, the Blood is corrupted, the Diſeaſe call'd the <hi>French Pox</hi> doth ariſe. Bubo's or malignant Botches appear in the Groin. The ſick perſon is afflicted with a pain in the Head, and in the ſpaces between the Joints, chiefly when he grows hot in his Bed; and divers parts of the Body are cover'd with a Scurf, which is of a yellow colour like a Honey<g ref="char:EOLhyphen"/>comb;
+<pb n="69" facs="tcp:102538:42"/> and the more the Scab is diffus'd, ſo much the leſs he is tormented with pain. In the Skull, Legs and Arms, there are bony Excre<g ref="char:EOLhyphen"/>ſcences, Inflamations and Rottenneſs of the Bones; and in divers parts eating Ulcers, which for the moſt part appear firſt in the Jaws, from whence creeping by degrees through the Palat to the cartilaginous part of the Noſe, they quickly conſume it; and the Noſe being thus robbed of its Prop, falls down flat. The Ul<g ref="char:EOLhyphen"/>cers, Rottenneſs and Pain, increaſing daily, the Members periſh by turns, till at the laſt the mangled Carkaſs, already grown burdenſom to the living, is buried out of ſight.</p>
+            <p>Take of Hogs-lard, two ounces; crude Quick-ſilver, one ounce, mix them for a Lini<g ref="char:EOLhyphen"/>ment, to be divided into three equal parts, with one of which let the Patient anoint his Arms and Legs, with his own hand, for three nights together.</p>
+            <p>If within three days after the laſt anointing, the Salivation doth not begin, let eight Grains of Turbith Mineral be exhibited in Conſerve of Red Roſes, or (to thoſe that are leſs robuſt) one ſcruple of <hi>Mercurius dulcis:</hi> Alſo if the Salivation already begun, grow languid before the total diſappearing of the Symptoms, it muſt be quickned now and then with a like Doſe of <hi>Mercurius dulcis.</hi>
+            </p>
+            <p>The Salivation ought to be ſo moderated, that the Patient may ſpit about four Pints in 24 hours.</p>
+            <pb n="70" facs="tcp:102538:43"/>
+            <p>But if it riſe too high, and be attended with too great an Inflamation, and other Symptoms of that nature, it ought to be repreſt with purg<g ref="char:EOLhyphen"/>ing Medicines, and kept in a due degree of mo<g ref="char:EOLhyphen"/>deration.</p>
+            <p>Immediately after the diſappearing of the Symptoms, let the Patient's Shirt, and the Sheets of his Bed be changed, and others put in their room, which muſt be ſuch as have been formerly uſed.</p>
+            <p>If the Patient be troubled with a <hi>Diarrhaea</hi> or Looſneſs, (which for the moſt part happens before the Salivation be much advanced) it ought to be ſtopt by the uſe of Liquid <hi>Laudanum,</hi> ſtill augmenting and repeating the Doſe, till it hath produced the deſired effect.</p>
+            <p>If the Mouth be ulcerated, let it be waſhed with Damask-Roſe-water, or Milk and wa<g ref="char:EOLhyphen"/>ter mixt, or with the following Deco<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Take of Marſhmallow Roots, and cleanſed Barley, of each one ounce; Quince-ſeeds, half an ounce: Boil them in a convenient quantity of wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to a quart. Mix and make a Garga<g ref="char:EOLhyphen"/>riſm, which ought to be frequently uſed.</p>
+            <p>Let the Diet and Government of the ſick Perſon be the ſame that is uſually preſcribed, when purging Medicines are exhibited; but du<g ref="char:EOLhyphen"/>ring a few days in the beginning, let him make
+<pb n="71" facs="tcp:102538:43"/> uſe of Poſſet, Barley and Oat-broths, and ſmall Beer warmed.</p>
+            <p>All theſe things being rightly performed (though there be no appearance of any Symp<g ref="char:EOLhyphen"/>tom left, and the Diſeaſe ſeem to be perfectly cured, yet) to ſecure the Patient from the danger of a Relapſe, let him once in a week take a ſcruple of <hi>Mercurius dulcis,</hi> repeating it four or ſix times, though he ſhould be well enough to walk abroad, and ſeem to be perfectly recovered.</p>
+         </div>
+         <div type="part">
+            <head>Of the Whites, or White Flux.</head>
+            <p>The Humour that flows out is ſometimes white, ſometime<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pale, yellow, green or blackiſh; it is ſometimes ſharp and corroſive, and ſometimes ſtinking and of a ſtrong ſmell. The Flux is accompanied with divers ſymptoms, as Wanneſs of Face, a pain in the Back-bone, Want of Appetite, Swelling of the Hands and Feet. If that which comes forth be received upon a Clout, it will manifeſt the Humor that cauſes the Flux, after it hath been dried.</p>
+            <p>Let a Vein be opened in the Arm, and eight ounces of Blood taken away.</p>
+            <p>Take of the Pills <hi>Cochiae</hi> the greater two ſcru<g ref="char:EOLhyphen"/>ples, <hi>Caſtoreum</hi> two grains, Balſam of <hi>Peru</hi> three drops; Make four Pills which are to be
+<pb n="72" facs="tcp:102538:44"/> taken at four a Clock in the morning, ſleeping after them, and twice repeated every ſecond or third day, according to the ſtrength of the Pa<g ref="char:EOLhyphen"/>tient.</p>
+            <p>Take of Rue water four ounces, compound Bryony water two ounces, Sugar Candy as much as is ſufficient: Make a Julep, of which let he take three or four ſpoonfuls in every languiſh<g ref="char:EOLhyphen"/>ment. Afterwards let her uſe the Remedies that are here ſubjoined.</p>
+            <p>Take of Treacle of <hi>Andromachus</hi> one ounce and an half, Conſerve of the yellow part of an Orenge two ounces, <hi>Diaſcordium</hi> half an ounce, preſerv'd Ginger, and preſerv'd Nutmeg, of each three drams; Compound Powder of Crabs Claws, one dram and a half; the outward Rind of Pomgranates, Roots of <hi>Spaniſh Angelica,</hi> Red Coral prepar'd, and Troches of Lemnian Earth, of each one dram; Bole Armenic, two Scruples; Gum Arabic, half a dram: with a ſufficient quantity of Syrup of dry'd Roſes, make an E<g ref="char:EOLhyphen"/>lectuary, of which let her take the quantity of a large Nutmeg in the morning, at five in the af<g ref="char:EOLhyphen"/>ternoon, and at night, every day, for a whole month, drinking ſix Spoonfuls of the following Infuſion after every Doſe.</p>
+            <p>Take of the Roots of Elicampane, Maſter<g ref="char:EOLhyphen"/>wort, <hi>Angelica, Calamus Aromaticus,</hi> of each half an ounce; Leafs of <hi>Roman</hi> Wormwood, White Horehound, Leſſer Centaury, Common Cala<g ref="char:EOLhyphen"/>mint,
+<pb n="73" facs="tcp:102538:44"/> and Sage dry'd, of each one handful; Ju<g ref="char:EOLhyphen"/>niper Berries one ounce: let them be chopt ſmall, and infus'd in four Pints of Canary Wine: let them ſtand in a cold Infuſion; ſtrain it only when you uſe it.</p>
+            <p>Let her eat Meats of eaſie digeſtion, and ab<g ref="char:EOLhyphen"/>ſtain from all ſorts of Pot-herbs, and Fruits; and at every Meal drink <hi>Spaniſh</hi> Wine.</p>
+         </div>
+         <div type="part">
+            <head>Of the <hi>Diabetes.</hi>
+            </head>
+            <p>The Juices that are brought into the Blood being crude and undigeſted, ſeek a paſſage forth through the Urinary Ducts, by which means the ſtrength is by degrees waſted, the Body is melted or diſſolved, and as it were the ſubſtance of it drain'd out through this Kennel. This Diſeaſe is alſo attended with Thirſt, burning Heat of the Bowels, Swelling of the Loins and Haunches, and frequent ſpitting of frothy Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er.</p>
+            <p>Preſcribe the ſame things that are com<g ref="char:EOLhyphen"/>mended in the Chapter, <hi>Of the Whites,</hi> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etting of Blood and Purging being only <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mitted.</p>
+         </div>
+         <div type="part">
+            <pb n="74" facs="tcp:102538:45"/>
+            <head>Of the Pain of the <hi>Haemorrhoids.</hi>
+            </head>
+            <p>The ſick Perſon is tormented with a moſt intenſe pain, when he voideth Excrements, the ſurface of which is alſo ſprinkled with Blood. Sometimes Tumours like Warts lurk inwardly in the Muſcle, call'd the Sphincter, or appear in the Brims of the Fundament.</p>
+            <p>Let ten ounces of Blood be taken out of the Right Arm.</p>
+            <p>Take of the Seeds of Melons and Pompions, of each half an ounce; White Poppy Seeds, two drams; five ſweet Almonds ſhell'd. Beat them in a marble Mortar, pouring in gradually of Barley Water above a Pint, Roſe Water two drams; fine white Sugar, as much as ſuffi<g ref="char:EOLhyphen"/>ceth. Make an Emulſion according to Art; of which let the Patient take three ounces fre<g ref="char:EOLhyphen"/>quently.</p>
+            <p>Take of Flowers of Brimſtone, Powder of Liquoriſh, and Sage of each one dram: with a ſufficient quantity of <hi>Lucatella</hi>'s Balſam, make ſix Pills out of every dram, of which let him take thrice a day, drinking ſix ſpoonfuls of the Emulſion after them.</p>
+            <p>Take of Frogs Sperm Water, four ounces
+<pb n="75" facs="tcp:102538:45"/> diſſolve in it of Litharge, two drams; <hi>Opium,</hi> one ſcruple: Apply a linnen Clout ſoak'd in a little of this mixture to the part affected; or if the Tumour lurk inwardly, inject three ſpoonfuls of the ſame mixture by way of a Clyſter.</p>
+            <p>Let the Patient make uſe of Water boil'd with Milk, or of Barley Water, for ordinary Drink, and abſtain from Fleſh. Every night let him take <hi>Diacodium.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Of the immoderate Flux of the <hi>Haemorrhoids.</hi>
+            </head>
+            <p>It is known by the Decay of Strength, a long and copious Flux of Blood, foul colour of the Body tending to a Citron colour, as in the Jaundice. It brings an evil Habit of Body, and afterwards the Dropſie.</p>
+            <p>The ſame things are profitable in this Caſe, that are preſcribed in the Chapter, <hi>Of the immo<g ref="char:EOLhyphen"/>derate Flux of the Courſes,</hi> omitting only Purga<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+         <div type="part">
+            <head>Of the <hi>Epilepſy</hi> in Children.</head>
+            <p>Children are uſually troubled with the Fal<g ref="char:EOLhyphen"/>ing Sickneſs, either during the firſt Month, af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er a Looſneſs, (in which caſe <hi>Diacodium,</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he quantity of a Pepper Corn, diſſolved in
+<pb n="76" facs="tcp:102538:46"/> Saxifrage Water, or Mothers Milk, and exhi<g ref="char:EOLhyphen"/>bited, is a moſt excellent Remedy;) or about the time of their Breeding of Teeth, from the ſeventh to the tenth Month; it is accompany'd with a Cough, or (which is far worſe) with Vomiting and Looſneſs, the Infant voiding green Excrements, after the manner of Hyſterical Women. Sometimes the Fit cometh ſuddenly, and unawares, diſtorting the Mouth and Eyes, overſpreading the Face with Blackneſs, and cau<g ref="char:EOLhyphen"/>ſing convulſive Motions in divers Limbs: And otherwhile the coming of it is ſignify'd before<g ref="char:EOLhyphen"/>hand, by the Contraction of the Fingers into the Fiſt, and a ſetled and unuſual unmoveableneſs of the Eyes. The Fits are ſometimes long, and ſometimes ſhort; ſometimes they return at ſet<g ref="char:EOLhyphen"/>times, and otherwhiles obſerve no certain pe<g ref="char:EOLhyphen"/>riod; but when Death is at hand, they come ſo thick, that they ſeem to tread upon one anothers heels. If at any time they grant a Truce, the Child remains drowſie, and prone to ſleep, till he be rous'd by a new Paroxyſm.</p>
+            <p>Apply a Bliſtering Plaiſter as ſoon as may be to the hinder part of the Neck.</p>
+            <p>Take of <hi>Langius</hi> his Epileptic Water, three drams; Liquid <hi>Laudanum</hi> one, two, or more drops, according to the Age of the Child; Syrup of Peony, one dram: mix them for a Draught, which muſt be inſtantly exhi<g ref="char:EOLhyphen"/>bited.</p>
+            <pb n="77" facs="tcp:102538:46"/>
+            <p>Take of Rue Water, three ounces; <hi>Langius</hi> his Epileptic Water, and compound Bryony Water, of each one ounce; Syrup of Gilli-flowers half an ounce: mix and make a Julep, of which give a ſpoonful every hour, if the Draught already preſcribed hath not diſcuſt the Paroxyſm.</p>
+         </div>
+         <div type="part">
+            <head>Of the Rickets truly ſo called.</head>
+            <p>It is known by the Looſeneſs, Softneſs, Fee<g ref="char:EOLhyphen"/>bleneſs, Languiſhment, Lazineſs, Dulneſs and unequal nouriſhment of the parts, <hi>viz.</hi> the Head is bigger than is meet, the Face fuller and more florid, the fleſhy parts beneath the Head pine away, the Joints are poſſeſt with Knotty Pro<g ref="char:EOLhyphen"/>tuberances, chiefly the Wriſts, but the Ankles not ſo much, the Bones are bowed, eſpecially thoſe of the Legs, and next to them thoſe of the Cubit between the Elbow and Wriſt, ſome<g ref="char:EOLhyphen"/>times alſo the Shoulder and Thigh-bones: the Teeth come forth ſlowly and with pain, they are looſe, black and fall out, the Breaſt is nar<g ref="char:EOLhyphen"/>row toward the ſides, and high and ſharp before: Other ſigns are a ſtuffing of the <hi>Abdomen</hi> or Paunch, diſtenſion of the <hi>Hypochondria,</hi> or places under the ſhort Ribs, Coughing, faultineſs of the Lungs; and an averſeneſs from lying on one ſide, which happens to be ſometimes the Right ſide, and otherwhiles the Left.</p>
+            <pb n="78" facs="tcp:102538:47"/>
+            <p>Take of the Leaves of common Wormwood, leſſer Centory, White Hore-hound, Germain<g ref="char:EOLhyphen"/>der, <hi>Scordium,</hi> common Calamint, Feverfew, Meadow Saxifrage, St. <hi>Johns</hi> wort, Golden rod, wild Time, Mint, Sage, Rue, <hi>Carduus Benedictus,</hi> Penny-royal, Southern-wood, Ca<g ref="char:EOLhyphen"/>momil, Tanſy, and Lilly of the Valley, all freſhly gather'd and chopt, of each one hand<g ref="char:EOLhyphen"/>ful; Hogs Lard four pounds, Sheeps Tallow two pounds, Claret wine a quart. Let them ſtand twelve hours ſoaking on hot aſhes in an earthen Veſſel, then boil away the Moiſture and afterwards ſtrain them for a Liniment, with which anoint the Belly, and the parts under the ſhort Ribs, and alſo the Limbs every morning and evening, for thirty or forty days, or till the Child recover.</p>
+            <p>Take of each of the preſcribed Ingredients two handfuls, infuſe them cold in four Gallons of Beer not hopp'd, for ordinary drink.</p>
+            <p>When Tumors poſſeſs the Bellies of Chil<g ref="char:EOLhyphen"/>dren, cauſed by exceſſive Evacuations,</p>
+            <p>Let the Blood and Bowels be ſtrengthned with corroborating Herbs, as in the Rickets (properly ſo called); Only let the Armpits be alſo anointed on both ſides, but not the Limbs.</p>
+         </div>
+         <div type="part">
+            <pb n="79" facs="tcp:102538:47"/>
+            <head>Of Fevers proceeding from the Breeding of Teeth</head>
+            <p>Let two, three, or four Drops of Spir it o Hartſhorn, according to the Age of the Child, be exhibited every four hours in a ſpoonful or two of Black Cherry water, or ſome other con<g ref="char:EOLhyphen"/>venient Julep, repeating it four or ſix times.</p>
+         </div>
+         <div type="part">
+            <head>Of the Hectic Fever in Children.</head>
+            <p>They languiſh with a notable Heat, and De<g ref="char:EOLhyphen"/>jection of Appetite; the Trunk of the Body, and the Limbs are extenuated.</p>
+            <p>Put two drams of Rheubarb ſliced into a Glaſs Bottle capable of containing a Quart of Small Beer, for ordinary Drink: and after it is drunk up, pour upon the ſame Rheubarb ano<g ref="char:EOLhyphen"/>ther Quart of Beer, and ſo a third time.</p>
+            <p>But if the Drink be too ſtrongly impregnated with a Purgative Vertue, after one Pint is drunk up, let another be immediately added to that which remains.</p>
+         </div>
+         <div type="part">
+            <head>Of Bleeding at the Noſe.</head>
+            <p>It is attended with Pain and Heat in the Fore<g ref="char:EOLhyphen"/>part of the Head.</p>
+            <pb n="80" facs="tcp:102538:48"/>
+            <p>Let a Vein be frequently opened in the Arm, and a cooling and thickening Diet injoined. Preſcribe alſo cooling and thickening Juleps, and cooling Emulſions.</p>
+            <p>Let a cooling Clyſter be injected every day, and a compoſing Draught of Syrup of <hi>Meconi<g ref="char:EOLhyphen"/>um</hi> exhibited every night, and preſcribe the common purging Potion to be be taken once or twice.</p>
+            <p>Dip a piece of Linnen cloth four times dou<g ref="char:EOLhyphen"/>bled in cold water, in which <hi>Sal Prunellae</hi> hath been diſſolved; and ſqueezing it a little, apply it to the Neck behind and on both ſides, often<g ref="char:EOLhyphen"/>times in a day.</p>
+            <p>After the Evacuations, apply the following Liquor.</p>
+            <p>Take of <hi>Hungarian</hi> Vitriol, and Allum, of each one ounce; Flegm of Vitriol half a pound: Boil them t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il the whole be diſſolved, then ſuffer the Liquor to grow cold, and ſtrain it through Brown Paper, and ſeparating it from the Cryſtals that now and then ariſe, add to the remaining Liquor a twelfth part of Oil of Vitriol: Or rather,</p>
+            <p>Take of Plantane Water, four ounces; Bole Armeniac in fine Powder, half an ounce: mix them thoroughly. Dip a Tent made of the ſcrapings of Linnen in this Liquor, and put it
+<pb n="81" facs="tcp:102538:48"/> into the Noſtril out of which the Blood flows, where let it remain two days.</p>
+            <p>If theſe things do not prevail, diſſolve <hi>Roman</hi> Vitriol in common Water, and dipping a Tent therein, put it into the Noſe. Clouts dipt in this Liquor, and apply'd, do alſo ſtay Bleeding in any of the external Parts.</p>
+         </div>
+         <div type="part">
+            <head>Of the Green-Sickneſs.</head>
+            <p>The Signs of this Diſeaſe are theſe: Ill co<g ref="char:EOLhyphen"/>lour of Face, and of the whole Body, Swellings in the Face, Eye-lids and Ankles, Heavineſs of the whole Body, a ſtretching Wearineſs of the Legs and Feet, difficult Breathing, Feveriſh Pulſe, Sleepineſs, Pica or longing for things that ought not to be eaten, and ſtoppage of the Courſes.</p>
+            <p>Let the Patient take the Chalybeat Pills or Powder, preſcribed in the Chapter, <hi>Of the Hy<g ref="char:EOLhyphen"/>ſterical Paſſion,</hi> more or leſs, according to her Age, drinking after them a Draught of any ſort of Wine that pleaſeth her, or of the corrobo<g ref="char:EOLhyphen"/>rating Infuſion of the Roots of <hi>Angelica</hi> there deſcribed. If ſhe be not very weak, purge her once or twice, before ſhe enter into this Courſe.</p>
+         </div>
+         <div type="part">
+            <pb n="82" facs="tcp:102538:49"/>
+            <head>Of the Suppreſſion of the Terms.</head>
+            <p>They loath Meat, the Face is diſcoloured, the whole Body is heavy, the Forepart of the Head, Loins, Legs, and Lower Belly, are pain'd, and the Feet are ſwoln.</p>
+            <p>Preſcribe the ſame Remedies that are com<g ref="char:EOLhyphen"/>mended in the Chapter, <hi>Of the Hyſterical Paſ<g ref="char:EOLhyphen"/>ſion;</hi> but if theſe will not prevail, proceed thus:</p>
+            <p>Every morning, and at four a clock in the afternoon, give five ſpoonfuls of the Hyſterical Julep without <hi>Caſtoreum,</hi> with twelve drops of Spirit of Hatts-horn, and every night at her entrance into Bed, let her take one ſcruple of the Troches of Myrrh made into a <hi>Bolus,</hi> or Pills with Syrup of Mugwort.</p>
+         </div>
+         <div type="part">
+            <head>Of Vomiting or Spitting of Blood.</head>
+            <p>Spitting of Blood is accompany'd with a Pain and Heat in the Breaſt, and a certain Feeble<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Let ten ounces of Blood be taken out of the Right Arm. The next morning let the Patient
+<pb n="83" facs="tcp:102538:49"/> take the common purging Potion, and the ſame night a compoſing Draught, of three ounces of Black-cherry Water, and one ounce of Syrup of <hi>Meconium</hi>
+            </p>
+            <p>Then let him uſe the following Reme<g ref="char:EOLhyphen"/>dies.</p>
+            <p>Take of Bole-Armeniac, one ounce; Powder of Comfry Roots, two drams; ſeal'd Earth, Blood-ſtone, and Dragons Blood, of each one dram; fine white Sugar the weight of all the reſt: mix them, and make a fine Powder, of which let him take one dram in the morning, at five a clock in the afternoon, and at night, drink<g ref="char:EOLhyphen"/>ing four ounces of the following Apozeme af<g ref="char:EOLhyphen"/>ter it.</p>
+            <p>Take of the Leafs of Plantane, wild Bramble Buſh, and Yarrow, of each one handful. Boil them in a convenient quantity of Water to a Pint and an half: in the ſtraining diſſolve two ounces of ſyrup of Comfry: mix and make an Apozeme; or let him take ſix ſpoonfuls of the following Tincture.</p>
+            <p>Take of Red Roſe Flowers, ſix drams; the inner Bark of the Oak, half an ounce; Plantane Seeds ſomewhat bruſs'd, three drams; Spring Water, one quart; Spirit of Vitriol, as much as ſufficeth to give the whole a pleaſant ſharp<g ref="char:EOLhyphen"/>neſs. Infuſe them four hours in a cloſe Veſſel, with a gentle Heat: To the ſtraining, add three
+<pb n="84" facs="tcp:102538:50"/> ounces of Barley Cinnamon Water, and as much fine white Sugar as is ſufficient to make it pleaſant to taſte.</p>
+            <p>If the Patient have an averſion againſt Pow<g ref="char:EOLhyphen"/>ders, let him uſe the Electuary preſcribed in the Chapter, <hi>Of the Immoderate Flux of the Terms.</hi>
+            </p>
+            <p>Preſcribe a Clyſter to be injected every day, and <hi>Diacodium</hi> to be taken at night.</p>
+            <p>Moreover the Patient muſt be let Blood again once, twice or thrice, according to the neceſſity of his condition, ſome days being interpoſed. Alſo, if need be, let him once again repeat the purging Potion,</p>
+            <p>And obſerve a cooling and thickning Diet.</p>
+         </div>
+         <div type="part">
+            <head>Of the Pricking of a Tendon.</head>
+            <p>A watery Humour or thin Gleet doth per<g ref="char:EOLhyphen"/>petually drop out of the Orifice of the Vein that is cut.</p>
+            <p>Take of White Lilly Roots boil'd in Cows Milk till they grow tender, and beaten, four ounces; Lin-ſeed flower and Oat-flower, of each three drams: Boil them to the conſiſtence of a Cataplaſm, in the ſame Milk in which the
+<pb n="85" facs="tcp:102538:50"/> Roots were boiled. Apply it to the part affect<g ref="char:EOLhyphen"/>ed, every morning and evening.</p>
+         </div>
+         <div type="part">
+            <head>Of Burning.</head>
+            <p>Foment the part affected with Clouts dipt in Spirit of Wine, till the pain be aſſwaged; then dip the Clout again and apply it three or four times in a day to the part affected.</p>
+         </div>
+         <div type="part">
+            <head>Of Common Madneſs.</head>
+            <p>This Diſeaſe proceedeth from a too vivid and exalted Conſtitution of the Blood. There is alſo another ſort of Madneſs that comes after long intermitting Fevers, and at length degenerates into Folly, which is cauſed by the Weakneſs and Flatneſs of the Blood, proceeding from a long Fermentation thereof. You muſt therefore preſcribe high Cordials, ſuch as Treacle of <hi>An<g ref="char:EOLhyphen"/>dromachus,</hi> the Electuary <hi>de Ovo,</hi> the Coun<g ref="char:EOLhyphen"/>teſſes Powder, Sir <hi>Walttr Rawleigh</hi>'s Powder in Plague water, Treacle water, or ſome other convenient Vehicle. And injoin a Reſtorative Diet.</p>
+            <p>In young Perſons let a Vein be opened in the Arm, and eight or nine ounces of Blood taken away twice or thrice, every fourth day.</p>
+            <pb n="86" facs="tcp:102538:51"/>
+            <p>Then let the Jugular Veins be once opened. After which the whole Cure depends upon the uſe of the following purging Medicine, which muſt be given every third or fourth day while the Diſeaſe laſts; But in the mean time it is to be obſerved, that after the Patient hath been purged eight or ten times, the exhibition of the Evacuating Medicine muſt be omitted for a Week or two.</p>
+            <p>Take of the Domeſtic Medicine (that is, White Briony Roots) in powder, one dram; Cows Milk four ounces; Or,</p>
+            <p>Take of the ſame Roots half an ounce, or ſix drams; White Wine four ounces: Infuſe them a whole night. In the ſtrained Liquor diſſolve one ounce of Syrup of Violets. Mix them for a Potion. Or,</p>
+            <p>Take of <hi>Gambugia</hi> fourteen grains, Black-Cherry water three ounces, Syrup of Clove-gilliflowers half an ounce: Make a Potion.</p>
+         </div>
+         <div type="part">
+            <head>Of Contuſions or Bruiſes.</head>
+            <p>Let a Vein in the Arm of the ſide that is moſt affected be opened, and ten ounces of Blood taken away. The next morning exhibit the common purging Potion; and thenceforward in like manner repeat Blood-letting and Purga<g ref="char:EOLhyphen"/>tion
+<pb n="87" facs="tcp:102538:51"/> by turns, till the Patient recover. In the mean while, if the inward parts are hurt, let him uſe the following Remedies during the whole courſe of the Cure.</p>
+            <p>Take of the Pectoral Decoction a pint and an half, Syrup of Violets, and of Maiden-hair, of each two ounces: Mix them for an Apozem, of which let him take half a pint thrice a day. Exhibit alſo frequently a Spoonful of Oil of Sweet Almonds newly drawn.</p>
+            <p>Take of Oil of Sweet Almonds, the Oint<g ref="char:EOLhyphen"/>ment <hi>Dialthaeae</hi> and Pomate, of each one ounce: Mix them for a Liniment, with which anoint the part affected morning and evening, laying over it a Cabbage Leaf.</p>
+         </div>
+         <div type="part">
+            <head>Of Scurf or Scales in the Head.</head>
+            <p>Let the Common Purging Potion be twice exhibited. Then</p>
+            <p>Take of Oil of bitter Almonds, Oil of Lau<g ref="char:EOLhyphen"/>rel, the Aſhes of Sothernwood leaves, of each one ounce: Mix them thoroughly for a Lini<g ref="char:EOLhyphen"/>ment, with which anoint the whole Head eve<g ref="char:EOLhyphen"/>ry night, rubbing it in diligently, and then co<g ref="char:EOLhyphen"/>ver it with a Sow's Bladder.</p>
+            <pb n="88" facs="tcp:102538:52"/>
+            <p>But firſt let all the Hair be cut off, and after<g ref="char:EOLhyphen"/>wards rub off the Scales by degrees, every morning, according as they are ready to fall away.</p>
+         </div>
+         <div type="part">
+            <head>Of the Biting of a Mad Dog.</head>
+            <p>After 40 Days or more, the Signs of Melan<g ref="char:EOLhyphen"/>choly appear: a Fever. Thirſt, <hi>Hydrophobia,</hi> or the Fear of Water, and at length Convulſions of the extreme Parts.</p>
+            <p>Take of Spirit of Wine highly rectified, four ounces; Treacle of <hi>Andromachus,</hi> one ounce: make a mixture, with which anoint the part that is hurt, thrice every day, laying over it a Clout dipt in the ſame mixture.</p>
+         </div>
+         <div type="part">
+            <head>Of the Ulcer of the Bladder.</head>
+            <p>Stinking matter is voided, or Blood, and ſometimes Scales, or membranous Skins, and as it were ſcurfy Cruſts like Bran; whereas when the Ulcer is in the Reins, pieces of Fleſh (which ſometimes are very big) are voided with the Urine. There is alſo a perpetual difficulty of Urine, and continual pain in thoſe parts: But in an Ulcer of the Reins, the difficulty of Urine and Pain come by Fits, and there are ſome Inter<g ref="char:EOLhyphen"/>vals
+<pb n="89" facs="tcp:102538:52"/> of eaſe; the Matter alſo that comes from the Reins is more abundant, white, thin, and not ſtinking, the Urine is voided like milk, but after it hath ſtood long, the Matter being ſeparted, falls to the bottom.</p>
+            <p>Take of the Plaiſter call'd <hi>Flos Unguenti,</hi> a dram and an half: make nine Pills, of which let the Patient take three at the phyſical hours, (<hi>viz.</hi> at eight a clock in the morning, and five in the afternoon) drinking ſix ſpoonfuls of the following Water after them.</p>
+            <p>Take of the Roots of Comfrey, Fennel, Birth<g ref="char:EOLhyphen"/>wort, and Avens, of each three ounces; Leafs of Agrimony, St. <hi>Johns</hi> Wort, Bugle, Sanicle and Plantane, of each ſix handfuls; chop them ſmall, and diſtil them in White-wine and Milk, of each four Pints. Draw off only four Pints for your uſe.</p>
+            <p>Take of the Powder of Comfrey Roots, and Gum Arabic, of each one ounce; Sugar of Penides, two ounces: make a Powder, of which let the Patient take a ſpoonful twice a day.</p>
+         </div>
+         <div type="part">
+            <pb n="90" facs="tcp:102538:53"/>
+            <head>Of an <hi>Aſthma,</hi> or Difficulty of Breathing, in Per<g ref="char:EOLhyphen"/>ſons of a Sanguine Conſtitution.</head>
+            <p>Of this Diſeaſe there are three kinds. <hi>Dyſp<g ref="char:EOLhyphen"/>naea,</hi> which is a difficult Breathing, in which the Breath is drawn often and thick, without noiſe or ratling, ariſing from the ſtuffing of the Lungs. <hi>Aſthma,</hi> or a great and frequent Breathing, in which the <hi>Diaphragma</hi> or Midriff, and intercoſtal Muſcles, as alſo the Muſcles of the <hi>Abdomen</hi> are violently mov'd, with a ratling noiſe and whee<g ref="char:EOLhyphen"/>ſing. In the former kind the ſubſtance of the Lungs, in the latter the <hi>Bronchia,</hi> or Griſtles are ſtopp'd. And <hi>Orthopnaea,</hi> which is the greateſt difficulty of Breathing, in which the ſick per<g ref="char:EOLhyphen"/>ſon cannot breath but ſitting, and with his Neck ſtretch'd upright; the Muſcles alſo of the Breaſt and Shoulders are vehemently agi<g ref="char:EOLhyphen"/>tated.</p>
+            <p>Let ten ounces of Blood be taken from the Right Arm, and the next day let the Patient take the common purging Potion, and repeat the ſame every third day to two other Do<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>In the intermediate Days let him proceed thus:</p>
+            <p>Take two drams of Anniſeed in fine powder,
+<pb n="91" facs="tcp:102538:53"/> and with a ſufficient quantity of <hi>Lucatella</hi>'s Bal<g ref="char:EOLhyphen"/>ſam make twelve Pills, of which let him take three in the morning, and at five a clock in the afternoon, drinking after them four ounces of the bitter Decoction, without the purging In<g ref="char:EOLhyphen"/>gredients, warm.</p>
+            <p>If the Symptoms ſtill remain, let the whole Proceſs be iterated afreſh.</p>
+         </div>
+         <div type="part">
+            <head>Of the Palſy.</head>
+            <p>Both the Faculties of Senſe and Motion, or either of them ſingly, are entirely loſt, or at leaſt diminiſhed, and vitiated in the parts affected.</p>
+            <p>Take of the Pills <hi>Cochiae</hi> the leſs, two ſcru<g ref="char:EOLhyphen"/>ples; let them be exhibited ſix times every other morning: And afterwards let the Patient take the Antiſcorbutic Electuary, thrice a day for thirty days together. See the Chapter, <hi>Of the Scurvey.</hi>
+            </p>
+            <p>Take of the Unguent call'd <hi>Nervinum,</hi> three ounces; compound Spirit of Lavender, and Spirit of Garden-Scurvy-Graſs, of each an ounce and an half; with which anoint the parts affected, as the Back-bone, <hi>&amp;c.</hi> every morning and evening.</p>
+            <p>The moſt part of the Re<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ks there preſcri<g ref="char:EOLhyphen"/>bed,
+<pb n="92" facs="tcp:102538:54"/> though they ſeem to be only adapted for the Cure of the Scurvy: yet foraſmuch as they are peculiarly qualify'd to volatize crude and fixt Humors, they are alſo good againſt the Palſy.</p>
+         </div>
+         <div type="part">
+            <head>Of the Cough and <hi>Pthiſis,</hi> or Conſumption.</head>
+            <p>The Cough is evident of it ſelf. As for the Conſumption it is to be obſerved, that People are obnoxious to it from eighteen to thirty five years. The Signs of it are theſe: An Hectic Fever, which is augmented after Meat (as ap<g ref="char:EOLhyphen"/>pears by the quickneſs of the Pulſe, and Red<g ref="char:EOLhyphen"/>neſs of the Cheeks;) the Matter that is ſpit forth with Coughing is bloody or purulent (that is, mixt with Quittor,) being caſt into the Fire, it ſendeth forth a noiſom Smell; and if it be put into a Veſſel full of water, it ſinks to the bottom: Sweating at Night, Blueneſs of the Cheeks, Paleneſs of Face, and Sharpneſs of the Noſtrils. And the ſinking of the Temples, crookedneſs of the Nails, falling off of the Hair, and melting Flux of the Belly, are the immediate Forerunners of Death.</p>
+            <p>When the Cough is of no long ſtanding, nor is yet accompany'd with a Fever, or other Signs of a Baſtard <hi>Peripneumonia,</hi> nor came after a Pleuriſy or <hi>Peripneumonia,</hi> for want of ſufficient Blood letting, in ſuch a Caſe it will be ſufficient
+<pb n="93" facs="tcp:102538:54"/> to caution the Patient againſt the uſe of Wine or Fleſh for ſome days, and to preſcribe theſe or the like Remedies to be uſed by him at his plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>Let him take ten drops of Balſam of Sulphur aniſated in a ſpoonful of Sugar-candy, twice or thrice every day, and frequently eat one of the following Tablets, which he ought always to carry about him.</p>
+            <p>Take a pound and an half of Sugar-candy; boil it in a convenient quantity of Spring wa<g ref="char:EOLhyphen"/>ter, till it ſtick to the ends of your Fingers: then add to it of the Powder of Liquoriſh, Eli<g ref="char:EOLhyphen"/>campane, Anniſeed, Angelica Seeds, of each half an ounce; Powder of Flower-de-luce, of <hi>Florence</hi> and Brimſtone, of each two drams; Chymical Oil of Annis, two ſcruples. Make Tablets according to Art, which may be called Domeſtic Lozenges. And in the mean time let the Patient uſe the following lambitive Medicine.</p>
+            <p>Take of Oil of Sweet Almonds, two oun<g ref="char:EOLhyphen"/>ces; Syrup of Maiden-hair and Violets, of each one ounce; Sugar-candy as much as ſufficeth to make a Lohoch; let the Patient lick thereof with a Liquoriſh Stick, when the Cough ſur<g ref="char:EOLhyphen"/>prizeth him.</p>
+            <p>In a thin Defluxion, you may preſcribe thick<g ref="char:EOLhyphen"/>ning Lohochs.</p>
+            <pb n="90" facs="tcp:102538:55"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="91" facs="tcp:102538:55"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="92" facs="tcp:102538:56"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="93" facs="tcp:102538:56"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="94" facs="tcp:102538:57"/>
+            <p>But if the Cough yield not to theſe Reme<g ref="char:EOLhyphen"/>dies, (more eſpecially if it be attended with a Fever, or came after a Pleuriſy or Inflamation of the Lungs) in that caſe it will be to no pur<g ref="char:EOLhyphen"/>poſe to rely upon pectoral Medicines, foraſmuch as the Cure muſt be wrought by Blood-letting and Purging, according to the method de<g ref="char:EOLhyphen"/>ſcribed in the Chapter, <hi>Of the Baſtard</hi> Perip<g ref="char:EOLhyphen"/>neumonia.</p>
+            <p>If after all, the Cough do not only continue to moleſt the Patient, but by long and vio<g ref="char:EOLhyphen"/>lent concuſſion of the Lungs, hath exceed<g ref="char:EOLhyphen"/>ingly weakned them, and thereby introduced a <hi>Pthiſis</hi> or Conſumption, you muſt proceed thus:</p>
+            <p>Pour ten drops of Balſam of <hi>Peru</hi> into a ſpoonful of Syrup of Ground-Ivy, or (if the Patient diſlike that) of Sugar-candy; and let him take it thrice a day, drinking after it four ounces of the bitter Decoction, prepared without the purging Ingredients, or if that doth occaſion a Looſeneſs of his Belly, let him diminiſh the Doſe to three oun<g ref="char:EOLhyphen"/>ces.</p>
+            <p>But of all the Remedies that hitherto have been invented, the moſt excellent and effica<g ref="char:EOLhyphen"/>cious, is for the Patient to take long and far Journies on Horſe-back. It is moreover to be obſerved, thar Men, or ſuch as have already
+<pb n="95" facs="tcp:102538:57"/> paſt the years of their Youth, muſt ſpend more time in this exerciſe, than if they were Boys or Young-men. And, truly, the <hi>Peru<g ref="char:EOLhyphen"/>vian</hi> Bark is not a mucn more certain Remedy for intermitting Fevers, than, in this Age, Ri<g ref="char:EOLhyphen"/>ding is for a Conſumption.</p>
+         </div>
+         <div type="part">
+            <head>Of the Scurvy.</head>
+            <p>It is attended with Heavineſs of Body; Wearineſs that cometh of it ſelf, or without any precedent Cauſe; difficult Breathing, eſ<g ref="char:EOLhyphen"/>pecially after Exerciſe; Rottenneſs of the Gums; ſtinking Breath; often Bleeding at the Noſe; difficult and uneaſie Walking; and (which is a conſtant Symptom of this Diſ<g ref="char:EOLhyphen"/>eaſe) Spots in the Legs, which are black and blue, yellow, or of a lead or violet colour, the Legs in the time being ſometimes ſwoln, and ſometimes extenuated, and the Face of a colour between pale and tawny.</p>
+            <p>Let a Vein be opened in the Arm, and eight ounces of Blood taken away, if no Signs of a Dropſie appear.</p>
+            <p>The next morning exhibit the common purg<g ref="char:EOLhyphen"/>ing Potion, and again a ſecond and third time every third day.</p>
+            <pb n="96" facs="tcp:102538:58"/>
+            <p>In the intermediate Days, let the Pa<g ref="char:EOLhyphen"/>tient take the following Remedies, and con<g ref="char:EOLhyphen"/>tinue the uſe of them for a month or two af<g ref="char:EOLhyphen"/>terwards.</p>
+            <p>Take of Conſerve of Garden-Scurvy-graſs, two ounces; Conſerve of Wood-ſorrel, one ounce, compound Powder of Aron, ſix drams; Syrup of Orenges, as much as ſufficeth to make an Electuary, of which let him take the quantity of a large Nutmeg, in the morning, at five a clock in the after<g ref="char:EOLhyphen"/>noon, and at night, drinking after it ſix ſpoonfuls of compound Radiſh water, or of that which follows.</p>
+            <p>Take of Raſpings of Horſe-Radiſh Roots, two pounds; Aron Roots, one pound; Leafs of Garden-Scurvy-Graſs, twelve handfuls; Leafs of Mint, Sage, Water-creſſes, and Brook-lime, of each ſix handfuls; Seeds of Garden-Scurvy-Graſs a little beaten, half a pound; Nutmegs, half an ounce; White-wine, twelve pints: Di<g ref="char:EOLhyphen"/>ſtil them in a common Still, and draw off only ſix pints for your uſe.</p>
+            <p>Or diſtil the freſh Leafs of Garden-Scurvy-Graſs by it ſelf, for the ſame uſe.</p>
+            <p>Moreover, let the Patient make uſe of the following Beer for ordinary Drink.</p>
+            <pb n="85" facs="tcp:102538:58"/>
+            <p>Take of the freſh Roots of Horſe-Radiſh ſlic'd, two drams; twelve Leafs of Garden-Scurvy-Graſs; ſix Raiſins ſton'd; and the half of an Orenge ſlic'd. Put them altogether into a Glaſs Bottle capable of containing a Quart of Small Beer, and ſtop it immediately with a Cork.</p>
+            <p>After the manner that is here deſcribed, prepare at the ſame time ſix Bottles for your uſe, and after ſome days ſix more, be<g ref="char:EOLhyphen"/>fore the firſt be quite ſpent, and ſo onward. Or,</p>
+            <p>Inſtead of the Beer, you may add three or four ſpoonfuls of the following mixture, to eve<g ref="char:EOLhyphen"/>ry draught of your ordinary Drink.</p>
+            <p>Take of the Roots of Horſe-Radiſh, and Seeds of Garden-Scurvy-Graſs, of each half an ounce; Leafs of Garden-Scurvy-Graſs, two handfuls; the pulp of one Orenge. Beat them together in a marble Mortar, pouring in by de<g ref="char:EOLhyphen"/>grees half a pint of White-wine. Strain them, and ſqueeze them a little; and reſerve the Li<g ref="char:EOLhyphen"/>quor for your uſe.</p>
+            <p>The ſame Remedies are alſo of excellent uſe in the Scorbutic or Hyſterical Rheumatiſm; only the letting of Blood, and Purging, muſt be omitted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:102538:59"/>
+            <pb facs="tcp:102538:59"/>
+            <head>THE INDEX.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>ABortion.</hi> 57</item>
+               <item>
+                  <hi>Ague.</hi> 14</item>
+               <item>
+                  <hi>Apoplexy.</hi> 40</item>
+               <item>Aſthma. 90</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>BIting of a mad Dog. <hi>88</hi>
+               </item>
+               <item>
+                  <g ref="char:V">Ʋ</g>lcer in the Bladder. <hi>88</hi>
+               </item>
+               <item>Bleeding at the Noſe. <hi>79</hi>
+               </item>
+               <item>Vomiting and Spitting of Blood. <hi>82</hi>
+               </item>
+               <item>Difficult Breathing. <hi>90</hi>
+               </item>
+               <pb facs="tcp:102538:60"/>
+               <item>Bruiſes. <hi>86</hi>
+               </item>
+               <item>Burning. <hi>85</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>
+                  <hi>CHolera. 49</hi>
+               </item>
+               <item>Hyſterical <hi>Clavus. 54</hi>
+               </item>
+               <item>Bilious Colic. <hi>48</hi>
+               </item>
+               <item>Hyſterical Colic. <hi>54</hi>
+               </item>
+               <item>Colic of the people of <hi>Poictiers. 51</hi>
+               </item>
+               <item>Conſumption. <hi>92</hi>
+               </item>
+               <item>Contuſions. <hi>86</hi>
+               </item>
+               <item>Cough. <hi>92</hi>
+               </item>
+               <item>Immoderate Flowing of the Courſes. <hi>52</hi>
+               </item>
+               <item>Suppreſſion of the Courſes. <hi>82</hi>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DIabetes. 73</item>
+               <item>Diarrhaea. 44</item>
+               <item>
+                  <hi>Biting of a mad Dog.</hi> 88</item>
+               <item>
+                  <hi>Dropſy.</hi> 59</item>
+               <item>
+                  <hi>Dyſentery.</hi> 44</item>
+            </list>
+            <pb facs="tcp:102538:60"/>
+            <list>
+               <head>E.</head>
+               <item>EPilepſy. <hi>75</hi>
+               </item>
+               <item>Epilepſy in Children. <hi>75</hi>
+               </item>
+               <item>
+                  <hi>Eriſipela</hi>'s and Eriſipelatous Fever. <hi>23</hi>
+               </item>
+               <item>Inflammation of the Eyes. <hi>42</hi>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>FAlling Sickneſs in Children. <hi>39</hi>
+               </item>
+               <item>Cleanſing Fever. <hi>1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Eryſipelatous Fever. <hi>23</hi>
+               </item>
+               <item>Hectic Fever in Children. <hi>79</hi>
+               </item>
+               <item>Intermitting Fever. <hi>13</hi>
+               </item>
+               <item>Peſtilential Fever. <hi>11</hi>
+               </item>
+               <item>Preſent Fever. <hi>14</hi>
+               </item>
+               <item>Preſent Fever in Children. <hi>16</hi>
+               </item>
+               <item>Scarlet Fever. <hi>17</hi>
+               </item>
+               <item>Fever from the Breeding of Teeth. <hi>79</hi>
+               </item>
+               <item>Flux of the Belly. <hi>46</hi>
+               </item>
+               <item>Immoderate Flux of the Courſes. <hi>52</hi>
+               </item>
+               <item>Immoderate Flux of the Hemorrhoids. <hi>75</hi>
+               </item>
+               <pb facs="tcp:102538:61"/>
+               <item>Immoderate Flux of the Loches. <hi>57</hi>
+               </item>
+               <item>White Flux. <hi>71</hi>
+               </item>
+               <item>French Pox. <hi>68</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GOnorrhaea. 64</item>
+               <item>
+                  <hi>Green-ſickneſs.</hi> 81</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HEctic Fever in Children. <hi>79</hi>
+               </item>
+               <item>Flux of the Hemorrhoids. <hi>75</hi>
+               </item>
+               <item>Pain of the Hemorrhoids. <hi>74</hi>
+               </item>
+               <item>Hypochondriacal Paſſion. <hi>5</hi>
+               </item>
+               <item>Hypochondriacal Rheumatiſm. <hi>22</hi>
+               </item>
+               <item>Hyſterical <hi>Clavus. 54</hi>
+               </item>
+               <item>Hyſterical Colic. <hi>54</hi>
+               </item>
+               <item>Hyſterical Paſſion. <hi>5</hi>
+               </item>
+               <item>Hyſterical Rheumatiſm. <hi>22</hi>
+               </item>
+            </list>
+            <pb facs="tcp:102538:61"/>
+            <list>
+               <head>I.</head>
+               <item>JAundice. <hi>56</hi>
+               </item>
+               <item>Iliac Paſſion. <hi>51</hi>
+               </item>
+               <item>Itching. <hi>24</hi>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>STone in the Kidneys. <hi>43</hi>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>IMmoderate Flux of the Loches. <hi>57</hi>
+               </item>
+               <item>Suppreſſion of the Loches. <hi>58</hi>
+               </item>
+               <item>Looſeneſs. <hi>46</hi>
+               </item>
+            </list>
+            <pb facs="tcp:102538:62"/>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>MAdneſs.</hi> 85</item>
+               <item>
+                  <hi>Meaſles.</hi> 27</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>NEphritical Paroxyſm. <hi>43</hi>
+               </item>
+               <item>Bleeding at the Noſe. <hi>79</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>OPthalmia. 42</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>PAlſy. <hi>91</hi>
+               </item>
+               <item>Baſtard <hi>Peripneumonia. 19</hi>
+               </item>
+               <item>Peſtilential Fever. <hi>11</hi>
+               </item>
+               <pb facs="tcp:102538:62"/>
+               <item>Phthiſis. <hi>92</hi>
+               </item>
+               <item>Pleuriſie. <hi>18</hi>
+               </item>
+               <item>
+                  <hi>French</hi> Pox. <hi>68</hi>
+               </item>
+               <item>Small Pox. <hi>29</hi>
+               </item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>
+                  <hi>Q<g ref="char:V">Ʋ</g>inſy.</hi> 25</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>COmpoſition of Remedies. <hi>1, 2, 3, 4, 5</hi>
+               </item>
+               <item>Rheumatiſm. <hi>21</hi>
+               </item>
+               <item>Scorbutic and Hyſterical Rheumatiſm. <hi>22</hi>
+               </item>
+               <item>Rickets. <hi>77</hi>
+               </item>
+               <item>Running of the Reins. <hi>64</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SCarlet Fever. <hi>17</hi>
+               </item>
+               <item>Scorbutick Rheumatiſm. <hi>21</hi>
+               </item>
+               <pb facs="tcp:102538:63"/>
+               <item>Scurf in the Head. <hi>87</hi>
+               </item>
+               <item>Scurvy. <hi>95</hi>
+               </item>
+               <item>Diſeaſes of the Skin. <hi>24</hi>
+               </item>
+               <item>Spitting of Blood. <hi>82</hi>
+               </item>
+               <item>Stone in the Kidneys. <hi>43</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>FEvers from Breeding of Teeth. <hi>79</hi>
+               </item>
+               <item>Pricking of a Tendon. <hi>84</hi>
+               </item>
+               <item>Terms. <hi>See</hi> Courſes.</item>
+               <item>Tertian-Ague. <hi>14</hi>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>VEnereal Diſeaſe. <hi>68</hi>
+               </item>
+               <item>St. <hi>Vitus</hi>'s Dance. <hi>37</hi>
+               </item>
+               <item>Vomiting of Blood. <hi>82</hi>
+               </item>
+            </list>
+            <pb facs="tcp:102538:63"/>
+            <list>
+               <head>W.</head>
+               <item>WHites. <hi>71</hi>
+               </item>
+               <item>Falling down of the Womb. <hi>43</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
